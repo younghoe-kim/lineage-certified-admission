@@ -1,0 +1,11 @@
+view_id,task,direction,macro_f1,target_eval_rows,coverage,source
+facet_only__family,family,DF->FP,0.2520064992589867,291686,0.0003874028921511119,utility/probes.csv
+facet_only__family,family,FP->DF,0.17692137518247572,256670,0.11231932052830484,utility/probes.csv
+family3__facet,facet,DF->FP,0.03623912293172108,41399,0.6469963042585569,utility/probes.csv
+family3__facet,facet,FP->DF,0.07340921804780667,224753,0.9563476349592664,utility/probes.csv
+family3_plus_type__facet,facet,DF->FP,0.021118734824163148,41399,0.5781782168651417,utility/probes.csv
+family3_plus_type__facet,facet,FP->DF,0.09165645364879291,224753,0.8685757253518307,utility/probes.csv
+type3__family,family,DF->FP,0.24452974925394563,291686,0.28164533093806354,utility/probes.csv
+type3__family,family,FP->DF,0.5661859245823838,256670,0.9999922078934039,utility/probes.csv
+type_attr_part__family,family,DF->FP,0.22951405355118545,291686,0.9999725732465734,utility/probes.csv
+type_attr_part__family,family,FP->DF,0.4044095280665698,256670,0.999996103946702,utility/probes.csv

@@ -1,0 +1,65 @@
+# Registry of the link-prediction study (paper Sec. VI-C, extended audit details Section C).
+# It is the table of reflexive pointers in the WordNet documentation, transcribed row by row. No row is added,
+# and no relation is mined from the benchmark files.
+authority: "Princeton WordNet, wninput(5WN): WordNet lexicographer file format, section Pointers"
+url: "https://wordnet.princeton.edu/node/30"
+accessed: "2026-10-29"
+quote: >-
+  Many pointer types are reflexive, meaning that if a synset contains a pointer to another synset, the other
+  synset should contain a corresponding reflexive pointer.
+# Each row "Pointer -> Reflect" is read as written: a pointer of type Pointer from x to y declares a pointer of type
+# Reflect from y to x. The Domain row is stated in one direction only.
+directed: true
+rows:
+  - [Antonym, Antonym]
+  - [Hyponym, Hypernym]
+  - [Hypernym, Hyponym]
+  - [Instance Hyponym, Instance Hypernym]
+  - [Instance Hypernym, Instance Hyponym]
+  - [Holonym, Meronym]
+  - [Meronym, Holonym]
+  - [Similar to, Similar to]
+  - [Attribute, Attribute]
+  - [Verb Group, Verb Group]
+  - [Derivationally Related, Derivationally Related]
+  - [Domain of synset, Member of Domain]
+# Pointer symbols of each pointer type in the WordNet database files (wninput(5WN), wndb(5WN)). Holonym, meronym,
+# domain and member-of-domain pointers come in subtypes; a row reflects each subtype to the subtype at the same
+# position (member to member, part to part, substance to substance, topic to topic, region to region, usage to usage).
+pointer_symbols:
+  Antonym: ["!"]
+  Hypernym: ["@"]
+  Hyponym: ["~"]
+  Instance Hypernym: ["@i"]
+  Instance Hyponym: ["~i"]
+  Holonym: ["#m", "#s", "#p"]
+  Meronym: ["%m", "%s", "%p"]
+  Similar to: ["&"]
+  Attribute: ["="]
+  Verb Group: ["$"]
+  Derivationally Related: ["+"]
+  Domain of synset: [";c", ";r", ";u"]
+  Member of Domain: ["-c", "-r", "-u"]
+# Pointer types of the WN18 relations that the table does not list; they stay outside the registry.
+not_declared:
+  Also see: ["^"]
+# WN18 relation name -> WordNet pointer symbol of the head synset's pointer to the tail synset.
+wn18_relations:
+  _hypernym: "@"
+  _hyponym: "~"
+  _instance_hypernym: "@i"
+  _instance_hyponym: "~i"
+  _member_holonym: "#m"
+  _member_meronym: "%m"
+  _part_of: "#p"
+  _has_part: "%p"
+  _synset_domain_topic_of: ";c"
+  _member_of_domain_topic: "-c"
+  _synset_domain_region_of: ";r"
+  _member_of_domain_region: "-r"
+  _synset_domain_usage_of: ";u"
+  _member_of_domain_usage: "-u"
+  _similar_to: "&"
+  _verb_group: "$"
+  _derivationally_related_form: "+"
+  _also_see: "^"

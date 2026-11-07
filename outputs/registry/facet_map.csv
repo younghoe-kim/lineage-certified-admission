@@ -1,0 +1,28 @@
+facet,term_type,family
+attribute/fit,attribute,structural_expression
+attribute/garment detail,attribute,structural_expression
+attribute/leather,attribute,surface_expression
+attribute/length,attribute,structural_expression
+attribute/neckline type,attribute,structural_expression
+attribute/nickname,attribute,tag_terms
+attribute/non textile material type,attribute,surface_expression
+attribute/opening type,attribute,structural_expression
+attribute/silhouette,attribute,structural_expression
+attribute/textile finishing manufacturing techniques,attribute,surface_expression
+attribute/textile material type,attribute,surface_expression
+attribute/textile pattern,attribute,surface_expression
+attribute/waistline,attribute,attribute_expression
+category/arms and hands,category,taxonomic_category
+category/head,category,taxonomic_category
+category/legs and feet,category,taxonomic_category
+category/lowerbody,category,taxonomic_category
+category/neck,category,taxonomic_category
+category/others,category,taxonomic_category
+category/upperbody,category,taxonomic_category
+category/waist,category,taxonomic_category
+category/wholebody,category,taxonomic_category
+color,color,surface_expression
+meta/attribute type,attr type,other_expression
+part/closures,part,structural_expression
+part/decorations,part,structural_expression
+part/garment parts,part,structural_expression

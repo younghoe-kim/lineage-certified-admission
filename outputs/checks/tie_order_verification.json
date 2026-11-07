@@ -1,0 +1,13 @@
+{
+ "all_pass": true,
+ "check": "tie_order",
+ "checks_failed": 0,
+ "counts_match_tie_order_json": true,
+ "failed": [],
+ "pipeline_library_imported": false,
+ "rows": 467,
+ "strict_states_checked": 462,
+ "tie_only_optima_recomputed": 5,
+ "tie_only_rows": 5,
+ "tie_only_states_enumerated": 4161
+}

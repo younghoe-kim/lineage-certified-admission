@@ -1,0 +1,17 @@
+view_id,task,direction,predictor,metric_labels,macro_f1,labels_with_min_targets,macro_f1_on_labels_with_min_targets,labels_below_small_targets,small_label_targets
+core_plus_type__family,family,DF->FP,cosine,4,0.2700832686715422,3,0.3601110248953896,1,attribute_expression=1
+core_plus_type__family,family,DF->FP,registry_rule,4,0.12405613503278244,3,0.1654081800437099,1,attribute_expression=1
+core_plus_type__family,family,FP->DF,cosine,3,0.25759817113876116,3,0.25759817113876116,0,
+core_plus_type__family,family,FP->DF,registry_rule,3,0.3232562844408043,3,0.3232562844408043,0,
+facet_only__family,family,DF->FP,cosine,4,0.3332560455806568,3,0.44426654660932,1,attribute_expression=1
+facet_only__family,family,DF->FP,registry_rule,4,0.7183753800051189,3,0.624500506673492,1,attribute_expression=1
+facet_only__family,family,FP->DF,cosine,3,0.435946771625553,3,0.435946771625553,0,
+facet_only__family,family,FP->DF,registry_rule,3,0.750834485583132,3,0.750834485583132,0,
+identity_admitted__facet,facet,DF->FP,cosine,13,0.1305313897620996,13,0.1305313897620996,0,
+identity_admitted__facet,facet,DF->FP,registry_rule,13,0.1614303414437121,13,0.1614303414437121,0,
+identity_admitted__facet,facet,FP->DF,cosine,13,0.17460777452888282,12,0.18915842240628974,2,attribute/non textile material type=2|attribute/opening type=3
+identity_admitted__facet,facet,FP->DF,registry_rule,13,0.2329473830271946,12,0.25135261560070954,2,attribute/non textile material type=2|attribute/opening type=3
+identity_admitted__family,family,DF->FP,cosine,4,0.5828927036270373,3,0.7763176711536762,1,attribute_expression=1
+identity_admitted__family,family,DF->FP,registry_rule,4,0.7183753800051189,3,0.624500506673492,1,attribute_expression=1
+identity_admitted__family,family,FP->DF,cosine,3,0.30358789140746634,3,0.30358789140746634,0,
+identity_admitted__family,family,FP->DF,registry_rule,3,0.750834485583132,3,0.750834485583132,0,

@@ -1,0 +1,468 @@
+view_id,dataset,group_index,fiber_value,observed_label,class,rival,margin,state,rival_optima,query_conforming_fiber_size
+family3__facet,DF,108,"[4,8,1]",attribute/textile pattern,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile material type"":8,""category/wholebody"":1}",,6
+family3__facet,DF,11,"[0,5,2]",attribute/textile pattern,strict,attribute/leather,5,"{""attribute/leather"":5,""category/wholebody"":2}",,3
+family3__facet,DF,111,"[4,10,1]",attribute/textile pattern,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile material type"":10,""category/wholebody"":1}",,2
+family3__facet,DF,135,"[5,9,1]",attribute/textile pattern,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile material type"":9,""category/wholebody"":1}",,2
+family3__facet,DF,138,"[5,10,2]",attribute/textile pattern,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile material type"":10,""category/wholebody"":2}",,2
+family3__facet,DF,144,"[6,2,3]",attribute/garment detail,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":2,""category/wholebody"":3}",,3
+family3__facet,DF,16,"[0,9,1]",attribute/textile pattern,strict,attribute/leather,9,"{""attribute/leather"":9,""category/wholebody"":1}",,5
+family3__facet,DF,17,"[0,10,1]",attribute/textile pattern,strict,attribute/leather,10,"{""attribute/leather"":10,""category/wholebody"":1}",,2
+family3__facet,DF,182,"[8,4,1]",attribute/garment detail,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":4,""category/wholebody"":1}",,4
+family3__facet,DF,186,"[8,6,1]",attribute/garment detail,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":6,""category/wholebody"":1}",,3
+family3__facet,DF,187,"[8,6,2]",attribute/textile pattern,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile material type"":6,""category/wholebody"":2}",,2
+family3__facet,DF,193,"[9,2,1]",attribute/garment detail,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile pattern"":2,""category/wholebody"":1}",,3
+family3__facet,DF,202,"[10,0,1]",attribute/garment detail,strict,attribute/fit,10,"{""attribute/fit"":10,""category/wholebody"":1}",,3
+family3__facet,DF,203,"[10,1,1]",attribute/garment detail,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":1,""category/wholebody"":1}",,3
+family3__facet,DF,205,"[10,2,1]",attribute/garment detail,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":2,""category/wholebody"":1}",,3
+family3__facet,DF,209,"[10,4,2]",attribute/garment detail,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":4,""category/wholebody"":2}",,6
+family3__facet,DF,211,"[11,1,2]",attribute/garment detail,strict,attribute/fit,11,"{""attribute/fit"":11,""attribute/textile pattern"":1,""category/wholebody"":2}",,4
+family3__facet,DF,217,"[12,1,2]",attribute/garment detail,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile pattern"":1,""category/wholebody"":2}",,3
+family3__facet,DF,221,"[12,5,2]",attribute/garment detail,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile pattern"":5,""category/wholebody"":2}",,2
+family3__facet,DF,33,"[1,9,1]",attribute/textile pattern,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile material type"":9,""category/wholebody"":1}",,10
+family3__facet,DF,34,"[1,10,1]",attribute/textile pattern,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile material type"":10,""category/wholebody"":1}",,4
+family3__facet,DF,45,"[2,3,3]",category/lowerbody,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":3,""category/wholebody"":3}",,3
+family3__facet,DF,54,"[2,6,3]",attribute/textile pattern,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile material type"":6,""category/wholebody"":3}",,2
+family3__facet,DF,62,"[2,10,2]",attribute/textile pattern,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile material type"":10,""category/wholebody"":2}",,3
+family3__facet,DF,84,"[3,8,1]",attribute/textile pattern,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile material type"":8,""category/wholebody"":1}",,19
+family3__facet,FP,104,"[2,9,4]",category/lowerbody,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":9,""category/wholebody"":4}",,1
+family3__facet,FP,105,"[2,10,4]",attribute/textile pattern,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile material type"":10,""category/wholebody"":4}",,2
+family3__facet,FP,106,"[2,14,4]",attribute/textile pattern,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile material type"":14,""category/wholebody"":4}",,1
+family3__facet,FP,108,"[3,0,1]",attribute/length,strict,attribute/fit,3,"{""attribute/fit"":3,""category/wholebody"":1}",,1
+family3__facet,FP,11,"[0,2,3]",category/upperbody,strict,attribute/leather,2,"{""attribute/leather"":2,""category/wholebody"":3}",,2
+family3__facet,FP,110,"[3,0,3]",category/upperbody,strict,attribute/fit,3,"{""attribute/fit"":3,""category/wholebody"":3}",,1
+family3__facet,FP,114,"[3,1,3]",category/upperbody,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":1,""category/wholebody"":3}",,4
+family3__facet,FP,116,"[3,1,6]",category/upperbody,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":1,""category/wholebody"":6}",,1
+family3__facet,FP,119,"[3,2,3]",category/upperbody,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":2,""category/wholebody"":3}",,13
+family3__facet,FP,127,"[3,3,8]",category/lowerbody,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":3,""category/wholebody"":8}",,3
+family3__facet,FP,133,"[3,4,8]",category/lowerbody,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":4,""category/wholebody"":8}",,3
+family3__facet,FP,134,"[3,5,0]",part/decorations,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":5}",,1
+family3__facet,FP,137,"[3,5,3]",category/upperbody,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":5,""category/wholebody"":3}",,14
+family3__facet,FP,140,"[3,5,8]",category/lowerbody,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":5,""category/wholebody"":8}",,1
+family3__facet,FP,148,"[3,8,3]",attribute/textile pattern,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile material type"":8,""category/wholebody"":3}",,1
+family3__facet,FP,15,"[0,3,3]",category/upperbody,strict,attribute/leather,3,"{""attribute/leather"":3,""category/wholebody"":3}",,1
+family3__facet,FP,150,"[3,9,2]",attribute/textile pattern,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile material type"":9,""category/wholebody"":2}",,1
+family3__facet,FP,151,"[3,9,4]",attribute/textile pattern,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile material type"":9,""category/wholebody"":4}",,1
+family3__facet,FP,157,"[4,1,3]",category/upperbody,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":1,""category/wholebody"":3}",,2
+family3__facet,FP,164,"[4,2,8]",category/lowerbody,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":2,""category/wholebody"":8}",,1
+family3__facet,FP,17,"[0,4,1]",attribute/textile finishing manufacturing techniques,strict,attribute/leather,4,"{""attribute/leather"":4,""category/wholebody"":1}",,1
+family3__facet,FP,170,"[4,3,8]",category/lowerbody,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":3,""category/wholebody"":8}",,2
+family3__facet,FP,176,"[4,4,8]",category/lowerbody,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":4,""category/wholebody"":8}",,3
+family3__facet,FP,182,"[4,5,8]",category/lowerbody,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":5,""category/wholebody"":8}",,2
+family3__facet,FP,183,"[4,6,1]",attribute/fit,strict,attribute/garment detail,4,"{""attribute/garment detail"":4,""attribute/textile pattern"":6,""category/wholebody"":1}",,1
+family3__facet,FP,185,"[4,6,3]",category/upperbody,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":6,""category/wholebody"":3}",,4
+family3__facet,FP,188,"[4,6,8]",category/lowerbody,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":6,""category/wholebody"":8}",,1
+family3__facet,FP,194,"[4,8,3]",attribute/textile pattern,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile material type"":8,""category/wholebody"":3}",,2
+family3__facet,FP,196,"[4,8,6]",category/wholebody,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":8,""category/waist"":6}",,4
+family3__facet,FP,2,"[0,0,3]",category/upperbody,strict,attribute/waistline,1,"{""attribute/waistline"":1,""category/wholebody"":3}",,24
+family3__facet,FP,20,"[0,4,6]",category/upperbody,strict,attribute/leather,4,"{""attribute/leather"":4,""category/wholebody"":6}",,1
+family3__facet,FP,201,"[4,11,2]",attribute/textile pattern,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile material type"":11,""category/wholebody"":2}",,1
+family3__facet,FP,202,"[4,12,2]",attribute/textile pattern,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile material type"":12,""category/wholebody"":2}",,1
+family3__facet,FP,205,"[5,0,3]",category/upperbody,strict,attribute/fit,5,"{""attribute/fit"":5,""category/wholebody"":3}",,1
+family3__facet,FP,206,"[5,0,4]",category/lowerbody,strict,attribute/fit,5,"{""attribute/fit"":5,""category/wholebody"":4}",,10
+family3__facet,FP,207,"[5,1,0]",part/garment parts,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":1}",,1
+family3__facet,FP,209,"[5,1,3]",category/upperbody,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":1,""category/wholebody"":3}",,2
+family3__facet,FP,211,"[5,1,6]",category/upperbody,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":1,""category/wholebody"":6}",,1
+family3__facet,FP,217,"[5,2,8]",category/lowerbody,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":2,""category/wholebody"":8}",,1
+family3__facet,FP,230,"[5,5,3]",category/upperbody,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":5,""category/wholebody"":3}",,6
+family3__facet,FP,232,"[5,5,5]",category/upperbody,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":5,""category/wholebody"":5}",,1
+family3__facet,FP,234,"[5,5,8]",category/lowerbody,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":5,""category/wholebody"":8}",,1
+family3__facet,FP,237,"[5,6,3]",category/upperbody,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":6,""category/wholebody"":3}",,14
+family3__facet,FP,240,"[5,6,8]",category/lowerbody,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":6,""category/wholebody"":8}",,1
+family3__facet,FP,242,"[5,7,3]",attribute/textile pattern,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile material type"":7,""category/wholebody"":3}",,1
+family3__facet,FP,244,"[5,7,6]",category/upperbody,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":7,""category/wholebody"":6}",,1
+family3__facet,FP,249,"[5,9,6]",category/upperbody,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":9,""category/wholebody"":6}",,1
+family3__facet,FP,256,"[6,1,6]",category/upperbody,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":1,""category/wholebody"":6}",,1
+family3__facet,FP,259,"[6,2,3]",category/upperbody,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":2,""category/wholebody"":3}",,4
+family3__facet,FP,267,"[6,3,5]",category/upperbody,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":3,""category/wholebody"":5}",,1
+family3__facet,FP,269,"[6,3,8]",category/lowerbody,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":3,""category/wholebody"":8}",,4
+family3__facet,FP,27,"[0,7,3]",attribute/textile finishing manufacturing techniques,strict,attribute/leather,7,"{""attribute/leather"":7,""category/wholebody"":3}",,1
+family3__facet,FP,275,"[6,4,8]",category/lowerbody,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":4,""category/wholebody"":8}",,1
+family3__facet,FP,276,"[6,5,1]",attribute/silhouette,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":5,""category/wholebody"":1}",,3
+family3__facet,FP,28,"[0,7,4]",category/lowerbody,strict,attribute/leather,7,"{""attribute/leather"":7,""category/wholebody"":4}",,2
+family3__facet,FP,280,"[6,5,5]",category/upperbody,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":5,""category/wholebody"":5}",,1
+family3__facet,FP,282,"[6,5,8]",category/lowerbody,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":5,""category/wholebody"":8}",,2
+family3__facet,FP,283,"[6,6,1]",attribute/silhouette,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":6,""category/wholebody"":1}",,3
+family3__facet,FP,285,"[6,6,3]",category/upperbody,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":6,""category/wholebody"":3}",,9
+family3__facet,FP,288,"[6,6,8]",category/upperbody,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":6,""category/wholebody"":8}",,1
+family3__facet,FP,29,"[0,8,4]",category/upperbody,strict,attribute/leather,8,"{""attribute/leather"":8,""category/wholebody"":4}",,1
+family3__facet,FP,290,"[6,7,3]",attribute/textile pattern,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile material type"":7,""category/wholebody"":3}",,1
+family3__facet,FP,292,"[6,7,6]",category/upperbody,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":7,""category/wholebody"":6}",,4
+family3__facet,FP,294,"[6,8,3]",attribute/textile pattern,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile material type"":8,""category/wholebody"":3}",,3
+family3__facet,FP,297,"[6,8,8]",category/wholebody,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":8,""category/waist"":8}",,1
+family3__facet,FP,299,"[6,9,3]",attribute/textile pattern,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile material type"":9,""category/wholebody"":3}",,1
+family3__facet,FP,303,"[6,11,2]",attribute/textile pattern,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile material type"":11,""category/wholebody"":2}",,1
+family3__facet,FP,304,"[6,11,4]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":11,""category/wholebody"":4}",,1
+family3__facet,FP,307,"[7,0,0]",attribute/garment detail,strict,attribute/fit,7,"{""attribute/fit"":7}",,1
+family3__facet,FP,308,"[7,0,4]",category/upperbody,strict,attribute/fit,7,"{""attribute/fit"":7,""category/wholebody"":4}",,2
+family3__facet,FP,311,"[7,2,0]",part/garment parts,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile pattern"":2}",,1
+family3__facet,FP,314,"[7,2,3]",category/wholebody,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile pattern"":2,""category/waist"":3}",,3
+family3__facet,FP,316,"[7,2,5]",category/upperbody,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile pattern"":2,""category/wholebody"":5}",,1
+family3__facet,FP,317,"[7,2,6]",category/upperbody,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile pattern"":2,""category/wholebody"":6}",,12
+family3__facet,FP,328,"[7,5,1]",attribute/textile pattern,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile material type"":5,""category/wholebody"":1}",,1
+family3__facet,FP,332,"[7,5,6]",category/lowerbody,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile pattern"":5,""category/wholebody"":6}",,4
+family3__facet,FP,335,"[7,6,6]",category/upperbody,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile pattern"":6,""category/wholebody"":6}",,1
+family3__facet,FP,342,"[7,11,4]",attribute/textile pattern,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile material type"":11,""category/wholebody"":4}",,1
+family3__facet,FP,346,"[8,0,6]",category/wholebody,strict,attribute/fit,8,"{""attribute/fit"":8,""category/waist"":6}",,1
+family3__facet,FP,349,"[8,1,6]",category/upperbody,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":1,""category/wholebody"":6}",,1
+family3__facet,FP,35,"[1,0,3]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""category/wholebody"":3}",,21
+family3__facet,FP,350,"[8,2,1]",attribute/silhouette,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":2,""category/wholebody"":1}",,3
+family3__facet,FP,354,"[8,2,8]",category/lowerbody,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":2,""category/wholebody"":8}",,2
+family3__facet,FP,359,"[8,4,1]",attribute/silhouette,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":4,""category/wholebody"":1}",,1
+family3__facet,FP,361,"[8,4,3]",attribute/silhouette,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":4,""category/wholebody"":3}",,3
+family3__facet,FP,364,"[8,4,8]",category/wholebody,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":4,""category/waist"":8}",,1
+family3__facet,FP,365,"[8,5,1]",attribute/silhouette,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":5,""category/wholebody"":1}",,1
+family3__facet,FP,368,"[8,5,8]",category/lowerbody,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":5,""category/wholebody"":8}",,1
+family3__facet,FP,37,"[1,0,6]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""category/wholebody"":6}",,2
+family3__facet,FP,370,"[8,6,3]",attribute/silhouette,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":6,""category/wholebody"":3}",,1
+family3__facet,FP,373,"[8,6,8]",category/lowerbody,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":6,""category/wholebody"":8}",,1
+family3__facet,FP,379,"[8,9,2]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":9,""category/wholebody"":2}",,1
+family3__facet,FP,380,"[8,9,4]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":9,""category/wholebody"":4}",,1
+family3__facet,FP,383,"[8,10,6]",category/wholebody,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":10,""category/waist"":6}",,2
+family3__facet,FP,384,"[8,12,2]",attribute/textile pattern,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile material type"":12,""category/wholebody"":2}",,1
+family3__facet,FP,388,"[9,2,1]",attribute/garment detail,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile pattern"":2,""category/wholebody"":1}",,1
+family3__facet,FP,390,"[9,2,3]",attribute/garment detail,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile pattern"":2,""category/wholebody"":3}",,2
+family3__facet,FP,392,"[9,3,1]",attribute/length,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile pattern"":3,""category/wholebody"":1}",,1
+family3__facet,FP,395,"[9,3,6]",category/upperbody,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile pattern"":3,""category/wholebody"":6}",,1
+family3__facet,FP,4,"[0,0,6]",category/upperbody,strict,attribute/waistline,1,"{""attribute/waistline"":1,""category/wholebody"":6}",,2
+family3__facet,FP,40,"[1,1,3]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":1,""category/wholebody"":3}",,4
+family3__facet,FP,402,"[9,6,6]",category/lowerbody,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile pattern"":6,""category/wholebody"":6}",,1
+family3__facet,FP,404,"[9,8,4]",category/lowerbody,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile pattern"":8,""category/wholebody"":4}",,1
+family3__facet,FP,405,"[9,9,4]",attribute/textile pattern,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile material type"":9,""category/wholebody"":4}",,1
+family3__facet,FP,412,"[10,3,0]",part/garment parts,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":3}",,1
+family3__facet,FP,414,"[10,3,3]",attribute/silhouette,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":3,""category/wholebody"":3}",,1
+family3__facet,FP,418,"[10,4,6]",category/wholebody,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":4,""category/waist"":6}",,5
+family3__facet,FP,42,"[1,1,6]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":1,""category/wholebody"":6}",,1
+family3__facet,FP,424,"[10,7,2]",attribute/fit,strict,attribute/garment detail,10,"{""attribute/garment detail"":10,""attribute/textile pattern"":7,""category/wholebody"":2}",,1
+family3__facet,FP,428,"[10,8,6]",category/wholebody,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":8,""category/waist"":6}",,2
+family3__facet,FP,432,"[10,14,4]",attribute/textile pattern,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile material type"":14,""category/wholebody"":4}",,1
+family3__facet,FP,439,"[11,4,6]",category/lowerbody,strict,attribute/fit,11,"{""attribute/fit"":11,""attribute/textile pattern"":4,""category/wholebody"":6}",,1
+family3__facet,FP,442,"[11,6,4]",attribute/silhouette,strict,attribute/fit,11,"{""attribute/fit"":11,""attribute/textile pattern"":6,""category/wholebody"":4}",,1
+family3__facet,FP,443,"[12,0,4]",attribute/garment detail,strict,attribute/fit,12,"{""attribute/fit"":12,""category/wholebody"":4}",,1
+family3__facet,FP,444,"[12,1,4]",attribute/garment detail,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile pattern"":1,""category/wholebody"":4}",,1
+family3__facet,FP,447,"[12,3,2]",attribute/garment detail,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile pattern"":3,""category/wholebody"":2}",,1
+family3__facet,FP,448,"[12,3,4]",category/lowerbody,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile pattern"":3,""category/wholebody"":4}",,2
+family3__facet,FP,45,"[1,2,3]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":2,""category/wholebody"":3}",,11
+family3__facet,FP,451,"[12,4,6]",category/wholebody,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile pattern"":4,""category/waist"":6}",,2
+family3__facet,FP,452,"[12,5,4]",attribute/garment detail,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile pattern"":5,""category/wholebody"":4}",,1
+family3__facet,FP,455,"[12,8,2]",attribute/garment detail,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile pattern"":8,""category/wholebody"":2}",,2
+family3__facet,FP,457,"[12,10,2]",attribute/garment detail,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile pattern"":10,""category/wholebody"":2}",,1
+family3__facet,FP,459,"[12,12,4]",attribute/textile pattern,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile material type"":12,""category/wholebody"":4}",,1
+family3__facet,FP,460,"[14,2,2]",attribute/garment detail,strict,attribute/fit,14,"{""attribute/fit"":14,""attribute/textile pattern"":2,""category/wholebody"":2}",,1
+family3__facet,FP,461,"[14,2,4]",attribute/garment detail,strict,attribute/fit,14,"{""attribute/fit"":14,""attribute/textile pattern"":2,""category/wholebody"":4}",,1
+family3__facet,FP,462,"[14,4,2]",attribute/garment detail,strict,attribute/fit,14,"{""attribute/fit"":14,""attribute/textile pattern"":4,""category/wholebody"":2}",,2
+family3__facet,FP,463,"[14,4,4]",attribute/garment detail,strict,attribute/fit,14,"{""attribute/fit"":14,""attribute/textile pattern"":4,""category/wholebody"":4}",,14
+family3__facet,FP,464,"[14,6,4]",attribute/garment detail,strict,attribute/fit,14,"{""attribute/fit"":14,""attribute/textile pattern"":6,""category/wholebody"":4}",,11
+family3__facet,FP,465,"[14,8,4]",attribute/garment detail,strict,attribute/fit,14,"{""attribute/fit"":14,""attribute/textile pattern"":8,""category/wholebody"":4}",,1
+family3__facet,FP,466,"[15,9,2]",attribute/garment detail,strict,attribute/fit,15,"{""attribute/fit"":15,""attribute/textile pattern"":9,""category/wholebody"":2}",,1
+family3__facet,FP,47,"[1,2,6]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":2,""category/wholebody"":6}",,1
+family3__facet,FP,48,"[1,3,1]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":3,""category/wholebody"":1}",,5
+family3__facet,FP,50,"[1,3,3]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":3,""category/wholebody"":3}",,1
+family3__facet,FP,52,"[1,3,6]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":3,""category/wholebody"":6}",,1
+family3__facet,FP,55,"[1,4,3]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":4,""category/wholebody"":3}",,1
+family3__facet,FP,57,"[1,4,6]",category/lowerbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":4,""category/wholebody"":6}",,1
+family3__facet,FP,63,"[1,7,2]",attribute/textile pattern,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile material type"":7,""category/wholebody"":2}",,1
+family3__facet,FP,64,"[1,7,4]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":7,""category/wholebody"":4}",,1
+family3__facet,FP,65,"[1,8,2]",attribute/textile pattern,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile material type"":8,""category/wholebody"":2}",,2
+family3__facet,FP,69,"[2,0,3]",category/upperbody,strict,attribute/fit,2,"{""attribute/fit"":2,""category/wholebody"":3}",,15
+family3__facet,FP,7,"[0,1,3]",category/upperbody,strict,attribute/leather,1,"{""attribute/leather"":1,""category/wholebody"":3}",,6
+family3__facet,FP,71,"[2,1,0]",part/garment parts,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":1}",,1
+family3__facet,FP,74,"[2,1,3]",category/upperbody,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":1,""category/wholebody"":3}",,4
+family3__facet,FP,76,"[2,1,5]",category/upperbody,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":1,""category/wholebody"":5}",,1
+family3__facet,FP,77,"[2,1,6]",category/upperbody,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":1,""category/wholebody"":6}",,2
+family3__facet,FP,81,"[2,2,3]",category/upperbody,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":2,""category/wholebody"":3}",,6
+family3__facet,FP,83,"[2,2,6]",category/upperbody,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":2,""category/wholebody"":6}",,2
+family3__facet,FP,88,"[2,3,6]",category/upperbody,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":3,""category/wholebody"":6}",,1
+family3__facet,FP,91,"[2,4,3]",category/upperbody,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":4,""category/wholebody"":3}",,4
+family3_plus_type__facet,DF,104,"[1,6,1,11,1,0]",attribute/textile pattern,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile material type"":6,""attribute/waistline"":4,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,109,"[1,7,1,11,1,0]",attribute/textile pattern,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile material type"":7,""attribute/waistline"":3,""category/wholebody"":1}",,3
+family3_plus_type__facet,DF,114,"[1,9,1,10,1,0]",attribute/textile pattern,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile material type"":9,""category/wholebody"":1}",,8
+family3_plus_type__facet,DF,117,"[1,10,1,11,1,0]",attribute/textile pattern,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile material type"":10,""category/wholebody"":1}",,4
+family3_plus_type__facet,DF,123,"[2,0,1,6,1,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/waistline"":4,""category/wholebody"":1}",,45
+family3_plus_type__facet,DF,124,"[2,0,1,7,1,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/waistline"":5,""category/wholebody"":1}",,13
+family3_plus_type__facet,DF,125,"[2,0,1,8,1,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/waistline"":6,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,13,"[0,1,1,5,1,0]",attribute/nickname,strict,attribute/leather,1,"{""attribute/leather"":1,""attribute/waistline"":4,""category/wholebody"":1}",,84
+family3_plus_type__facet,DF,132,"[2,1,1,8,1,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":1,""attribute/waistline"":5,""category/wholebody"":1}",,5
+family3_plus_type__facet,DF,138,"[2,2,1,8,1,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":2,""attribute/waistline"":4,""category/wholebody"":1}",,33
+family3_plus_type__facet,DF,139,"[2,2,1,9,1,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":2,""attribute/waistline"":5,""category/wholebody"":1}",,5
+family3_plus_type__facet,DF,14,"[0,1,1,6,1,0]",attribute/nickname,strict,attribute/leather,1,"{""attribute/leather"":1,""attribute/waistline"":5,""category/wholebody"":1}",,15
+family3_plus_type__facet,DF,144,"[2,2,2,9,2,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":2,""attribute/waistline"":5,""category/wholebody"":2}",,23
+family3_plus_type__facet,DF,145,"[2,2,2,10,2,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":2,""attribute/waistline"":6,""category/wholebody"":2}",,6
+family3_plus_type__facet,DF,15,"[0,1,1,7,1,0]",attribute/nickname,strict,attribute/leather,1,"{""attribute/leather"":1,""attribute/waistline"":6,""category/wholebody"":1}",,3
+family3_plus_type__facet,DF,150,"[2,3,1,9,1,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":3,""attribute/waistline"":4,""category/wholebody"":1}",,18
+family3_plus_type__facet,DF,151,"[2,3,1,10,1,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":3,""attribute/waistline"":5,""category/wholebody"":1}",,4
+family3_plus_type__facet,DF,154,"[2,3,2,9,2,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":3,""attribute/waistline"":4,""category/wholebody"":2}",,78
+family3_plus_type__facet,DF,155,"[2,3,2,10,2,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":3,""attribute/waistline"":5,""category/wholebody"":2}",,10
+family3_plus_type__facet,DF,156,"[2,3,2,11,2,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":3,""attribute/waistline"":6,""category/wholebody"":2}",,2
+family3_plus_type__facet,DF,162,"[2,4,1,11,1,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":4,""attribute/waistline"":5,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,165,"[2,4,2,10,2,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":4,""attribute/waistline"":4,""category/wholebody"":2}",,65
+family3_plus_type__facet,DF,166,"[2,4,2,11,2,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":4,""attribute/waistline"":5,""category/wholebody"":2}",,11
+family3_plus_type__facet,DF,176,"[2,5,2,12,2,0]",attribute/nickname,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":5,""attribute/waistline"":5,""category/wholebody"":2}",,7
+family3_plus_type__facet,DF,191,"[2,8,1,10,1,0]",attribute/textile pattern,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile material type"":8,""category/wholebody"":1}",,8
+family3_plus_type__facet,DF,193,"[2,8,1,12,1,0]",attribute/textile pattern,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile material type"":8,""attribute/waistline"":2,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,197,"[2,9,1,11,1,0]",attribute/textile pattern,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile material type"":9,""category/wholebody"":1}",,6
+family3_plus_type__facet,DF,20,"[0,2,1,6,1,0]",attribute/nickname,strict,attribute/leather,2,"{""attribute/leather"":2,""attribute/waistline"":4,""category/wholebody"":1}",,42
+family3_plus_type__facet,DF,202,"[2,10,2,14,2,0]",attribute/textile pattern,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile material type"":10,""attribute/waistline"":2,""category/wholebody"":2}",,2
+family3_plus_type__facet,DF,21,"[0,2,1,7,1,0]",attribute/nickname,strict,attribute/leather,2,"{""attribute/leather"":2,""attribute/waistline"":5,""category/wholebody"":1}",,11
+family3_plus_type__facet,DF,210,"[3,0,1,8,1,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/waistline"":5,""category/wholebody"":1}",,3
+family3_plus_type__facet,DF,216,"[3,1,1,8,1,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":1,""attribute/waistline"":4,""category/wholebody"":1}",,17
+family3_plus_type__facet,DF,218,"[3,1,1,10,1,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":1,""attribute/waistline"":6,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,220,"[3,1,2,7,2,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":1,""attribute/waistline"":3,""category/wholebody"":2}",,11
+family3_plus_type__facet,DF,221,"[3,1,2,8,2,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":1,""attribute/waistline"":4,""category/wholebody"":2}",,3
+family3_plus_type__facet,DF,228,"[3,2,1,10,1,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":2,""attribute/waistline"":5,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,232,"[3,2,2,9,2,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":2,""attribute/waistline"":4,""category/wholebody"":2}",,103
+family3_plus_type__facet,DF,233,"[3,2,2,10,2,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":2,""attribute/waistline"":5,""category/wholebody"":2}",,18
+family3_plus_type__facet,DF,234,"[3,2,2,11,2,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":2,""attribute/waistline"":6,""category/wholebody"":2}",,8
+family3_plus_type__facet,DF,235,"[3,2,2,12,2,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":2,""attribute/waistline"":7,""category/wholebody"":2}",,2
+family3_plus_type__facet,DF,241,"[3,3,1,10,1,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":3,""attribute/waistline"":4,""category/wholebody"":1}",,18
+family3_plus_type__facet,DF,242,"[3,3,1,11,1,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":3,""attribute/waistline"":5,""category/wholebody"":1}",,5
+family3_plus_type__facet,DF,246,"[3,3,2,10,2,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":3,""attribute/waistline"":4,""category/wholebody"":2}",,80
+family3_plus_type__facet,DF,247,"[3,3,2,11,2,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":3,""attribute/waistline"":5,""category/wholebody"":2}",,16
+family3_plus_type__facet,DF,248,"[3,3,2,12,2,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":3,""attribute/waistline"":6,""category/wholebody"":2}",,3
+family3_plus_type__facet,DF,257,"[3,4,2,11,2,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":4,""attribute/waistline"":4,""category/wholebody"":2}",,60
+family3_plus_type__facet,DF,26,"[0,3,1,7,1,0]",attribute/nickname,strict,attribute/leather,3,"{""attribute/leather"":3,""attribute/waistline"":4,""category/wholebody"":1}",,15
+family3_plus_type__facet,DF,263,"[3,5,1,12,1,0]",attribute/textile pattern,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile material type"":5,""attribute/waistline"":4,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,268,"[3,5,2,13,2,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":5,""attribute/waistline"":5,""category/wholebody"":2}",,7
+family3_plus_type__facet,DF,27,"[0,3,1,8,1,0]",attribute/nickname,strict,attribute/leather,3,"{""attribute/leather"":3,""attribute/waistline"":5,""category/wholebody"":1}",,4
+family3_plus_type__facet,DF,278,"[3,6,2,14,2,0]",attribute/nickname,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":6,""attribute/waistline"":5,""category/wholebody"":2}",,2
+family3_plus_type__facet,DF,281,"[3,7,1,12,1,0]",attribute/textile pattern,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile material type"":7,""attribute/waistline"":2,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,286,"[3,8,1,11,1,0]",attribute/textile pattern,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile material type"":8,""category/wholebody"":1}",,8
+family3_plus_type__facet,DF,287,"[3,8,1,12,1,0]",attribute/textile pattern,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile material type"":8,""attribute/waistline"":1,""category/wholebody"":1}",,9
+family3_plus_type__facet,DF,288,"[3,8,1,13,1,0]",attribute/textile pattern,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile material type"":8,""attribute/waistline"":2,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,304,"[4,0,1,9,1,0]",attribute/nickname,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/waistline"":5,""category/wholebody"":1}",,3
+family3_plus_type__facet,DF,310,"[4,1,1,10,1,0]",attribute/nickname,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":1,""attribute/waistline"":5,""category/wholebody"":1}",,4
+family3_plus_type__facet,DF,314,"[4,1,2,9,2,0]",attribute/nickname,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":1,""attribute/waistline"":4,""category/wholebody"":2}",,4
+family3_plus_type__facet,DF,320,"[4,2,1,10,1,0]",attribute/nickname,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":2,""attribute/waistline"":4,""category/wholebody"":1}",,5
+family3_plus_type__facet,DF,326,"[4,2,2,11,2,0]",attribute/nickname,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":2,""attribute/waistline"":5,""category/wholebody"":2}",,7
+family3_plus_type__facet,DF,327,"[4,2,2,12,2,0]",attribute/nickname,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":2,""attribute/waistline"":6,""category/wholebody"":2}",,3
+family3_plus_type__facet,DF,333,"[4,3,1,11,1,0]",attribute/nickname,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":3,""attribute/waistline"":4,""category/wholebody"":1}",,6
+family3_plus_type__facet,DF,338,"[4,3,2,11,2,0]",attribute/nickname,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":3,""attribute/waistline"":4,""category/wholebody"":2}",,33
+family3_plus_type__facet,DF,339,"[4,3,2,12,2,0]",attribute/nickname,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":3,""attribute/waistline"":5,""category/wholebody"":2}",,7
+family3_plus_type__facet,DF,344,"[4,4,1,12,1,0]",attribute/textile material type,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":4,""attribute/waistline"":4,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,345,"[4,4,1,13,1,0]",attribute/nickname,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":4,""attribute/waistline"":5,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,350,"[4,4,2,12,2,0]",attribute/nickname,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":4,""attribute/waistline"":4,""category/wholebody"":2}",,28
+family3_plus_type__facet,DF,351,"[4,4,2,13,2,0]",attribute/nickname,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":4,""attribute/waistline"":5,""category/wholebody"":2}",,3
+family3_plus_type__facet,DF,361,"[4,5,2,14,2,0]",attribute/nickname,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":5,""attribute/waistline"":5,""category/wholebody"":2}",,5
+family3_plus_type__facet,DF,366,"[4,6,1,13,1,0]",attribute/textile material type,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":6,""attribute/waistline"":3,""category/wholebody"":1}",,8
+family3_plus_type__facet,DF,373,"[4,7,1,11,1,0]",attribute/textile pattern,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile material type"":7,""category/wholebody"":1}",,11
+family3_plus_type__facet,DF,382,"[4,8,1,12,1,0]",attribute/textile pattern,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile material type"":8,""category/wholebody"":1}",,3
+family3_plus_type__facet,DF,383,"[4,8,1,13,1,0]",attribute/textile pattern,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile material type"":8,""attribute/waistline"":1,""category/wholebody"":1}",,3
+family3_plus_type__facet,DF,384,"[4,8,2,12,2,0]",attribute/textile pattern,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile material type"":8,""category/wholebody"":2}",,2
+family3_plus_type__facet,DF,40,"[0,5,1,10,1,0]",attribute/nickname,strict,attribute/leather,5,"{""attribute/leather"":5,""attribute/waistline"":5,""category/wholebody"":1}",,3
+family3_plus_type__facet,DF,407,"[5,1,1,10,1,0]",attribute/nickname,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":1,""attribute/waistline"":4,""category/wholebody"":1}",,5
+family3_plus_type__facet,DF,413,"[5,1,2,10,2,0]",attribute/nickname,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":1,""attribute/waistline"":4,""category/wholebody"":2}",,6
+family3_plus_type__facet,DF,424,"[5,2,2,11,2,0]",attribute/nickname,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":2,""attribute/waistline"":4,""category/wholebody"":2}",,17
+family3_plus_type__facet,DF,425,"[5,2,2,12,2,0]",attribute/nickname,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":2,""attribute/waistline"":5,""category/wholebody"":2}",,4
+family3_plus_type__facet,DF,430,"[5,3,1,12,1,0]",attribute/nickname,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":3,""attribute/waistline"":4,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,436,"[5,3,2,12,2,0]",attribute/nickname,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":3,""attribute/waistline"":4,""category/wholebody"":2}",,14
+family3_plus_type__facet,DF,437,"[5,3,2,13,2,0]",attribute/nickname,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":3,""attribute/waistline"":5,""category/wholebody"":2}",,4
+family3_plus_type__facet,DF,447,"[5,4,2,13,2,0]",attribute/nickname,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":4,""attribute/waistline"":4,""category/wholebody"":2}",,13
+family3_plus_type__facet,DF,448,"[5,4,2,14,2,0]",attribute/nickname,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":4,""attribute/waistline"":5,""category/wholebody"":2}",,2
+family3_plus_type__facet,DF,458,"[5,5,2,14,2,0]",attribute/nickname,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":5,""attribute/waistline"":4,""category/wholebody"":2}",,7
+family3_plus_type__facet,DF,459,"[5,5,2,15,2,0]",attribute/nickname,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":5,""attribute/waistline"":5,""category/wholebody"":2}",,3
+family3_plus_type__facet,DF,475,"[5,7,2,12,2,0]",attribute/textile pattern,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile material type"":7,""category/wholebody"":2}",,5
+family3_plus_type__facet,DF,476,"[5,7,2,13,2,0]",attribute/textile pattern,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile material type"":7,""attribute/waistline"":1,""category/wholebody"":2}",,15
+family3_plus_type__facet,DF,479,"[5,8,1,13,1,0]",attribute/textile pattern,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile material type"":8,""category/wholebody"":1}",,3
+family3_plus_type__facet,DF,482,"[5,8,2,13,2,0]",attribute/textile pattern,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile material type"":8,""category/wholebody"":2}",,2
+family3_plus_type__facet,DF,487,"[5,9,1,15,1,0]",attribute/textile pattern,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile material type"":9,""attribute/waistline"":1,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,5,"[0,0,1,5,1,0]",attribute/nickname,strict,attribute/waistline,5,"{""attribute/waistline"":5,""category/wholebody"":1}",,37
+family3_plus_type__facet,DF,501,"[6,1,1,11,1,0]",attribute/nickname,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":1,""attribute/waistline"":4,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,506,"[6,1,2,11,2,0]",attribute/nickname,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":1,""attribute/waistline"":4,""category/wholebody"":2}",,3
+family3_plus_type__facet,DF,516,"[6,2,2,12,2,0]",attribute/nickname,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":2,""attribute/waistline"":4,""category/wholebody"":2}",,3
+family3_plus_type__facet,DF,527,"[6,3,2,13,2,0]",attribute/fit,strict,attribute/garment detail,6,"{""attribute/garment detail"":6,""attribute/textile pattern"":3,""attribute/waistline"":4,""category/wholebody"":2}",,2
+family3_plus_type__facet,DF,528,"[6,3,2,14,2,0]",attribute/nickname,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":3,""attribute/waistline"":5,""category/wholebody"":2}",,3
+family3_plus_type__facet,DF,536,"[6,4,2,14,2,0]",attribute/nickname,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":4,""attribute/waistline"":4,""category/wholebody"":2}",,5
+family3_plus_type__facet,DF,54,"[0,9,1,9,1,0]",attribute/textile pattern,strict,attribute/leather,9,"{""attribute/leather"":9,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,546,"[6,5,2,15,2,0]",attribute/nickname,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":5,""attribute/waistline"":4,""category/wholebody"":2}",,2
+family3_plus_type__facet,DF,55,"[0,9,1,10,1,0]",attribute/textile pattern,strict,attribute/leather,9,"{""attribute/leather"":9,""attribute/waistline"":1,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,572,"[7,1,1,11,1,0]",attribute/garment detail,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile pattern"":1,""attribute/waistline"":3,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,6,"[0,0,1,6,1,0]",attribute/nickname,strict,attribute/waistline,6,"{""attribute/waistline"":6,""category/wholebody"":1}",,6
+family3_plus_type__facet,DF,604,"[7,4,2,15,2,0]",attribute/nickname,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile pattern"":4,""attribute/waistline"":4,""category/wholebody"":2}",,3
+family3_plus_type__facet,DF,608,"[7,5,2,12,2,0]",attribute/textile pattern,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile material type"":5,""category/wholebody"":2}",,10
+family3_plus_type__facet,DF,628,"[8,1,1,10,1,0]",attribute/garment detail,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":1,""attribute/waistline"":1,""category/wholebody"":1}",,9
+family3_plus_type__facet,DF,638,"[8,2,1,12,1,0]",attribute/garment detail,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":2,""attribute/waistline"":2,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,64,"[1,0,1,6,1,0]",attribute/nickname,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/waistline"":5,""category/wholebody"":1}",,32
+family3_plus_type__facet,DF,644,"[8,2,2,14,2,0]",attribute/garment detail,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":2,""attribute/waistline"":4,""category/wholebody"":2}",,2
+family3_plus_type__facet,DF,648,"[8,3,1,14,1,0]",attribute/nickname,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":3,""attribute/waistline"":3,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,65,"[1,0,1,7,1,0]",attribute/nickname,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/waistline"":6,""category/wholebody"":1}",,6
+family3_plus_type__facet,DF,654,"[8,4,1,12,1,0]",attribute/garment detail,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":4,""category/wholebody"":1}",,3
+family3_plus_type__facet,DF,66,"[1,0,1,8,1,0]",attribute/nickname,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/waistline"":7,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,668,"[8,6,1,14,1,0]",attribute/garment detail,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":6,""category/wholebody"":1}",,3
+family3_plus_type__facet,DF,677,"[9,0,1,10,1,0]",attribute/garment detail,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/waistline"":1,""category/wholebody"":1}",,4
+family3_plus_type__facet,DF,679,"[9,1,1,10,1,0]",attribute/garment detail,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile pattern"":1,""category/wholebody"":1}",,3
+family3_plus_type__facet,DF,683,"[9,1,2,10,2,0]",attribute/garment detail,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile pattern"":1,""category/wholebody"":2}",,17
+family3_plus_type__facet,DF,685,"[9,1,2,12,2,0]",attribute/garment detail,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile pattern"":1,""attribute/waistline"":2,""category/wholebody"":2}",,7
+family3_plus_type__facet,DF,687,"[9,2,1,11,1,0]",attribute/garment detail,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile pattern"":2,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,694,"[9,3,2,12,2,0]",attribute/garment detail,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile pattern"":3,""category/wholebody"":2}",,5
+family3_plus_type__facet,DF,71,"[1,1,1,6,1,0]",attribute/nickname,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":1,""attribute/waistline"":4,""category/wholebody"":1}",,107
+family3_plus_type__facet,DF,710,"[10,0,1,10,1,0]",attribute/garment detail,strict,attribute/fit,10,"{""attribute/fit"":10,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,712,"[10,1,1,11,1,0]",attribute/garment detail,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":1,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,716,"[10,1,2,13,2,0]",attribute/garment detail,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":1,""attribute/waistline"":2,""category/wholebody"":2}",,2
+family3_plus_type__facet,DF,717,"[10,2,1,12,1,0]",attribute/garment detail,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":2,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,72,"[1,1,1,7,1,0]",attribute/nickname,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":1,""attribute/waistline"":5,""category/wholebody"":1}",,17
+family3_plus_type__facet,DF,720,"[10,2,2,13,2,0]",attribute/garment detail,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":2,""attribute/waistline"":1,""category/wholebody"":2}",,6
+family3_plus_type__facet,DF,724,"[10,3,2,13,2,0]",attribute/garment detail,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":3,""category/wholebody"":2}",,5
+family3_plus_type__facet,DF,728,"[10,4,2,15,2,0]",attribute/garment detail,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":4,""attribute/waistline"":1,""category/wholebody"":2}",,4
+family3_plus_type__facet,DF,729,"[10,4,2,16,2,0]",attribute/garment detail,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":4,""attribute/waistline"":2,""category/wholebody"":2}",,2
+family3_plus_type__facet,DF,733,"[11,1,2,13,2,0]",attribute/garment detail,strict,attribute/fit,11,"{""attribute/fit"":11,""attribute/textile pattern"":1,""attribute/waistline"":1,""category/wholebody"":2}",,2
+family3_plus_type__facet,DF,735,"[11,2,2,13,2,0]",attribute/garment detail,strict,attribute/fit,11,"{""attribute/fit"":11,""attribute/textile pattern"":2,""category/wholebody"":2}",,2
+family3_plus_type__facet,DF,80,"[1,2,1,9,1,0]",attribute/nickname,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":2,""attribute/waistline"":6,""category/wholebody"":1}",,2
+family3_plus_type__facet,DF,85,"[1,3,1,8,1,0]",attribute/nickname,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":3,""attribute/waistline"":4,""category/wholebody"":1}",,17
+family3_plus_type__facet,DF,86,"[1,3,1,9,1,0]",attribute/nickname,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":3,""attribute/waistline"":5,""category/wholebody"":1}",,5
+family3_plus_type__facet,DF,92,"[1,4,1,9,1,0]",attribute/nickname,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":4,""attribute/waistline"":4,""category/wholebody"":1}",,4
+family3_plus_type__facet,DF,93,"[1,4,1,10,1,0]",attribute/nickname,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":4,""attribute/waistline"":5,""category/wholebody"":1}",,4
+family3_plus_type__facet,FP,104,"[2,6,2,9,2,0]",category/lowerbody,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":6,""attribute/waistline"":1,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,108,"[2,8,2,10,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":8,""category/wholebody"":2}",,3
+family3_plus_type__facet,FP,109,"[2,8,2,11,2,0]",attribute/textile pattern,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile material type"":8,""attribute/waistline"":1,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,112,"[3,0,1,3,1,0]",attribute/length,strict,attribute/fit,3,"{""attribute/fit"":3,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,116,"[3,1,1,5,1,0]",category/upperbody,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":1,""attribute/waistline"":1,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,118,"[3,1,2,5,2,0]",category/upperbody,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":1,""attribute/waistline"":1,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,119,"[3,1,2,6,2,0]",category/upperbody,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":1,""attribute/waistline"":2,""category/wholebody"":2}",,4
+family3_plus_type__facet,FP,13,"[0,2,2,3,2,0]",category/lowerbody,strict,attribute/leather,2,"{""attribute/leather"":2,""attribute/waistline"":1,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,136,"[3,5,0,6,0,2]",part/decorations,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":5,""part/garment parts"":2}",,1
+family3_plus_type__facet,FP,138,"[3,5,1,9,1,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":5,""attribute/waistline"":1,""category/wholebody"":1}",,5
+family3_plus_type__facet,FP,139,"[3,5,1,10,1,0]",attribute/waistline,strict,attribute/fit,1,"{""attribute/fit"":3,""attribute/textile pattern"":5,""attribute/waistline"":2,""category/wholebody"":1}",,2
+family3_plus_type__facet,FP,148,"[3,8,2,11,2,0]",attribute/textile pattern,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile material type"":8,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,149,"[3,8,2,13,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":8,""attribute/waistline"":2,""category/wholebody"":2}",,3
+family3_plus_type__facet,FP,150,"[3,9,2,12,2,0]",attribute/textile pattern,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile material type"":9,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,154,"[4,0,2,5,2,0]",category/wholebody,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/waistline"":1,""category/waist"":2}",,1
+family3_plus_type__facet,FP,156,"[4,1,1,5,1,0]",attribute/silhouette,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":1,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,157,"[4,1,1,7,1,0]",attribute/fit,strict,attribute/garment detail,4,"{""attribute/garment detail"":4,""attribute/textile pattern"":1,""attribute/waistline"":2,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,16,"[0,3,1,4,1,0]",category/upperbody,strict,attribute/leather,3,"{""attribute/leather"":3,""attribute/waistline"":1,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,17,"[0,3,1,5,1,0]",attribute/waistline,strict,attribute/leather,1,"{""attribute/leather"":3,""attribute/waistline"":2,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,179,"[4,5,1,10,1,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":5,""attribute/waistline"":1,""category/wholebody"":1}",,2
+family3_plus_type__facet,FP,180,"[4,5,1,11,1,0]",attribute/fit,strict,attribute/garment detail,4,"{""attribute/garment detail"":4,""attribute/textile pattern"":5,""attribute/waistline"":2,""category/wholebody"":1}",,2
+family3_plus_type__facet,FP,184,"[4,6,1,12,1,0]",attribute/fit,strict,attribute/garment detail,4,"{""attribute/garment detail"":4,""attribute/textile pattern"":6,""attribute/waistline"":2,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,188,"[4,7,2,11,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":7,""category/wholebody"":2}",,9
+family3_plus_type__facet,FP,19,"[0,3,2,4,2,0]",category/lowerbody,strict,attribute/leather,3,"{""attribute/leather"":3,""attribute/waistline"":1,""category/wholebody"":2}",,4
+family3_plus_type__facet,FP,192,"[4,9,2,13,2,0]",attribute/textile pattern,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile material type"":9,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,193,"[4,9,2,15,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile pattern"":9,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,195,"[4,11,2,16,2,0]",attribute/textile pattern,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile material type"":11,""attribute/waistline"":1,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,196,"[4,12,2,18,2,0]",attribute/textile pattern,strict,attribute/fit,4,"{""attribute/fit"":4,""attribute/textile material type"":12,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,199,"[5,0,2,7,2,0]",category/wholebody,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/waistline"":2,""category/waist"":2}",,1
+family3_plus_type__facet,FP,200,"[5,1,0,4,0,2]",part/garment parts,strict,attribute/fit,3,"{""attribute/fit"":3,""attribute/textile pattern"":1,""part/closures"":2}",,1
+family3_plus_type__facet,FP,202,"[5,1,2,7,2,0]",category/upperbody,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":1,""attribute/waistline"":1,""category/wholebody"":2}",,2
+family3_plus_type__facet,FP,204,"[5,2,1,7,1,0]",attribute/length,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":2,""category/wholebody"":1}",,2
+family3_plus_type__facet,FP,205,"[5,2,1,8,1,0]",attribute/silhouette,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":2,""attribute/waistline"":1,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,21,"[0,4,1,4,1,0]",attribute/textile finishing manufacturing techniques,strict,attribute/leather,4,"{""attribute/leather"":4,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,216,"[5,4,1,9,1,0]",attribute/opening type,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":4,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,226,"[5,6,1,12,1,0]",attribute/silhouette,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":6,""attribute/waistline"":1,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,227,"[5,6,1,13,1,0]",attribute/textile pattern,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile material type"":6,""attribute/waistline"":2,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,23,"[0,4,2,5,2,0]",category/lowerbody,strict,attribute/leather,4,"{""attribute/leather"":4,""attribute/waistline"":1,""category/wholebody"":2}",,4
+family3_plus_type__facet,FP,232,"[5,7,2,13,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":7,""attribute/waistline"":1,""category/wholebody"":2}",,2
+family3_plus_type__facet,FP,234,"[5,8,2,13,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":8,""category/wholebody"":2}",,2
+family3_plus_type__facet,FP,235,"[5,8,2,14,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":8,""attribute/waistline"":1,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,237,"[5,9,2,14,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":9,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,238,"[5,9,2,16,2,0]",attribute/textile pattern,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile material type"":9,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,259,"[6,4,1,10,1,0]",attribute/silhouette,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":4,""category/wholebody"":1}",,2
+family3_plus_type__facet,FP,264,"[6,5,1,11,1,0]",attribute/silhouette,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":5,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,265,"[6,5,1,12,1,0]",attribute/silhouette,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":5,""attribute/waistline"":1,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,266,"[6,5,1,13,1,0]",attribute/silhouette,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":5,""attribute/waistline"":2,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,27,"[0,5,2,6,2,0]",category/lowerbody,strict,attribute/leather,5,"{""attribute/leather"":5,""attribute/waistline"":1,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,270,"[6,5,2,15,2,0]",attribute/waistline,strict,attribute/fit,2,"{""attribute/fit"":6,""attribute/textile pattern"":5,""attribute/waistline"":4,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,271,"[6,6,1,12,1,0]",attribute/silhouette,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":6,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,272,"[6,6,1,14,1,0]",attribute/silhouette,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":6,""attribute/waistline"":2,""category/wholebody"":1}",,2
+family3_plus_type__facet,FP,281,"[6,9,2,15,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile pattern"":9,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,284,"[6,11,2,19,2,0]",attribute/textile pattern,strict,attribute/fit,6,"{""attribute/fit"":6,""attribute/textile material type"":11,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,286,"[7,0,0,6,0,1]",attribute/garment detail,strict,attribute/fit,6,"{""attribute/fit"":6,""part/garment parts"":1}",,1
+family3_plus_type__facet,FP,290,"[7,2,0,7,0,2]",part/garment parts,strict,attribute/fit,5,"{""attribute/fit"":5,""attribute/textile pattern"":2,""part/closures"":2}",,1
+family3_plus_type__facet,FP,3,"[0,0,2,1,2,0]",category/wholebody,strict,attribute/waistline,1,"{""attribute/waistline"":1,""category/waist"":2}",,1
+family3_plus_type__facet,FP,300,"[7,3,2,13,2,0]",attribute/silhouette,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile pattern"":3,""attribute/waistline"":3,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,302,"[7,4,1,13,1,0]",attribute/silhouette,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile pattern"":4,""attribute/waistline"":2,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,306,"[7,5,1,14,1,0]",attribute/textile pattern,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile material type"":5,""attribute/waistline"":2,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,316,"[7,8,2,15,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile pattern"":8,""category/wholebody"":2}",,2
+family3_plus_type__facet,FP,318,"[7,9,2,17,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,7,"{""attribute/fit"":7,""attribute/textile pattern"":9,""attribute/waistline"":1,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,32,"[0,7,2,9,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/leather,7,"{""attribute/leather"":7,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,325,"[8,2,1,10,1,0]",attribute/silhouette,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":2,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,326,"[8,2,1,11,1,0]",attribute/silhouette,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":2,""attribute/waistline"":1,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,327,"[8,2,1,12,1,0]",attribute/silhouette,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":2,""attribute/waistline"":2,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,331,"[8,3,1,11,1,0]",attribute/fit,strict,attribute/garment detail,8,"{""attribute/garment detail"":8,""attribute/textile pattern"":3,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,332,"[8,3,1,13,1,0]",attribute/silhouette,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":3,""attribute/waistline"":2,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,336,"[8,3,2,15,2,0]",attribute/waistline,strict,attribute/fit,4,"{""attribute/fit"":8,""attribute/textile pattern"":3,""attribute/waistline"":4,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,337,"[8,4,1,14,1,0]",attribute/silhouette,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":4,""attribute/waistline"":2,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,341,"[8,5,1,15,1,0]",attribute/silhouette,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":5,""attribute/waistline"":2,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,345,"[8,5,2,17,2,0]",attribute/waistline,strict,attribute/fit,4,"{""attribute/fit"":8,""attribute/textile pattern"":5,""attribute/waistline"":4,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,349,"[8,6,2,18,2,0]",attribute/waistline,strict,attribute/fit,4,"{""attribute/fit"":8,""attribute/textile pattern"":6,""attribute/waistline"":4,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,350,"[8,7,2,15,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":7,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,351,"[8,7,2,16,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":7,""attribute/waistline"":1,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,355,"[8,9,2,19,2,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":9,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,356,"[8,10,2,18,2,0]",attribute/silhouette,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":10,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,358,"[8,12,2,22,2,0]",attribute/textile pattern,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile material type"":12,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,36,"[1,0,1,2,1,0]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/waistline"":1,""category/wholebody"":1}",,2
+family3_plus_type__facet,FP,361,"[9,2,1,12,1,0]",attribute/garment detail,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile pattern"":2,""attribute/waistline"":1,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,371,"[9,4,2,17,2,0]",attribute/waistline,strict,attribute/fit,5,"{""attribute/fit"":9,""attribute/textile pattern"":4,""attribute/waistline"":4,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,375,"[9,6,2,15,2,0]",attribute/silhouette,strict,attribute/fit,9,"{""attribute/fit"":9,""attribute/textile pattern"":6,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,38,"[1,0,2,2,2,0]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/waistline"":1,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,381,"[10,3,0,11,0,2]",part/garment parts,strict,attribute/fit,8,"{""attribute/fit"":8,""attribute/textile pattern"":3,""part/closures"":2}",,1
+family3_plus_type__facet,FP,39,"[1,1,1,2,1,0]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":1,""category/wholebody"":1}",,8
+family3_plus_type__facet,FP,391,"[10,6,2,16,2,0]",attribute/garment detail,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":6,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,393,"[10,7,2,19,2,0]",attribute/fit,strict,attribute/garment detail,10,"{""attribute/garment detail"":10,""attribute/textile pattern"":7,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,394,"[10,8,2,18,2,0]",attribute/garment detail,strict,attribute/fit,10,"{""attribute/fit"":10,""attribute/textile pattern"":8,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,397,"[11,2,2,14,2,0]",attribute/garment detail,strict,attribute/fit,11,"{""attribute/fit"":11,""attribute/textile pattern"":2,""attribute/waistline"":1,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,40,"[1,1,1,3,1,0]",category/wholebody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":1,""attribute/waistline"":1,""category/waist"":1}",,2
+family3_plus_type__facet,FP,400,"[11,4,2,16,2,0]",attribute/garment detail,strict,attribute/fit,11,"{""attribute/fit"":11,""attribute/textile pattern"":4,""attribute/waistline"":1,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,404,"[12,3,2,17,2,0]",attribute/garment detail,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile pattern"":3,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,405,"[12,4,2,16,2,0]",attribute/garment detail,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile pattern"":4,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,408,"[12,8,2,20,2,0]",attribute/garment detail,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile pattern"":8,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,409,"[12,8,2,22,2,0]",attribute/garment detail,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile pattern"":8,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,410,"[12,10,2,24,2,0]",attribute/garment detail,strict,attribute/fit,12,"{""attribute/fit"":12,""attribute/textile pattern"":10,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,411,"[14,2,2,18,2,0]",attribute/garment detail,strict,attribute/fit,14,"{""attribute/fit"":14,""attribute/textile pattern"":2,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,412,"[14,4,2,20,2,0]",attribute/garment detail,strict,attribute/fit,14,"{""attribute/fit"":14,""attribute/textile pattern"":4,""attribute/waistline"":2,""category/wholebody"":2}",,2
+family3_plus_type__facet,FP,413,"[15,9,2,26,2,0]",attribute/garment detail,strict,attribute/fit,15,"{""attribute/fit"":15,""attribute/textile pattern"":9,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,42,"[1,1,2,3,2,0]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":1,""attribute/waistline"":1,""category/wholebody"":2}",,2
+family3_plus_type__facet,FP,43,"[1,1,2,4,2,0]",category/lowerbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":1,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,49,"[1,3,1,4,1,0]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":3,""category/wholebody"":1}",,4
+family3_plus_type__facet,FP,50,"[1,3,1,5,1,0]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":3,""attribute/waistline"":1,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,58,"[1,5,1,7,1,0]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":5,""attribute/waistline"":1,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,59,"[1,5,1,8,1,0]",attribute/waistline,strict,attribute/leather,3,"{""attribute/leather"":5,""attribute/silhouette"":1,""attribute/waistline"":2,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,6,"[0,1,1,2,1,0]",category/upperbody,strict,attribute/leather,1,"{""attribute/leather"":1,""attribute/waistline"":1,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,63,"[1,6,2,9,2,0]",category/upperbody,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":6,""attribute/waistline"":2,""category/wholebody"":2}",,3
+family3_plus_type__facet,FP,64,"[1,7,2,10,2,0]",attribute/textile pattern,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile material type"":7,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,65,"[1,8,2,9,2,0]",attribute/textile pattern,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile material type"":8,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,66,"[1,8,2,11,2,0]",attribute/textile pattern,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile material type"":8,""attribute/waistline"":2,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,70,"[2,0,1,3,1,0]",category/upperbody,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/waistline"":1,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,72,"[2,0,2,3,2,0]",category/upperbody,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/waistline"":1,""category/wholebody"":2}",,4
+family3_plus_type__facet,FP,74,"[2,1,0,1,0,2]",part/garment parts,strict,attribute/leather,1,"{""attribute/leather"":1,""part/closures"":2}",,1
+family3_plus_type__facet,FP,77,"[2,1,2,4,2,0]",category/upperbody,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":1,""attribute/waistline"":1,""category/wholebody"":2}",,1
+family3_plus_type__facet,FP,79,"[2,2,0,2,0,2]",part/garment parts,strict,attribute/leather,2,"{""attribute/leather"":2,""part/closures"":2}",,1
+family3_plus_type__facet,FP,80,"[2,2,0,3,0,1]",attribute/textile finishing manufacturing techniques,strict,attribute/fit,1,"{""attribute/fit"":1,""attribute/textile pattern"":2,""part/garment parts"":1}",,1
+family3_plus_type__facet,FP,88,"[2,3,1,7,1,0]",attribute/waistline,strict,attribute/leather,1,"{""attribute/leather"":3,""attribute/silhouette"":2,""attribute/waistline"":2,""category/wholebody"":1}",,2
+family3_plus_type__facet,FP,9,"[0,1,2,3,2,0]",category/lowerbody,strict,attribute/leather,1,"{""attribute/leather"":1,""attribute/waistline"":2,""category/wholebody"":2}",,3
+family3_plus_type__facet,FP,93,"[2,4,1,7,1,0]",attribute/length,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":4,""attribute/waistline"":1,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,94,"[2,4,1,8,1,0]",attribute/waistline,strict,attribute/leather,2,"{""attribute/leather"":4,""attribute/silhouette"":2,""attribute/waistline"":2,""category/wholebody"":1}",,2
+family3_plus_type__facet,FP,98,"[2,5,1,7,1,0]",attribute/length,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":5,""category/wholebody"":1}",,1
+family3_plus_type__facet,FP,99,"[2,5,1,9,1,0]",attribute/non textile material type,strict,attribute/fit,2,"{""attribute/fit"":2,""attribute/textile pattern"":5,""attribute/waistline"":2,""category/wholebody"":1}",,1
+type3__family,DF,1,"[1,1,0]",taxonomic_category,tie_only,,,,"{""attribute_expression"":0,""structural_expression"":0,""surface_expression"":0,""tag_terms"":0}",32017
+type3__family,DF,24,"[15,1,0]",surface_expression,strict,tag_terms,15,"{""attribute/nickname"":15,""category/wholebody"":1}",,6
+type3__family,FP,11,"[2,2,0]",taxonomic_category,tie_only,,,,"{""attribute_expression"":0,""structural_expression"":0,""surface_expression"":0,""tag_terms"":-2}",305
+type3__family,FP,12,"[3,0,1]",structural_expression,strict,attribute_expression,2,"{""attribute/waistline"":3,""part/garment parts"":1}",,2736
+type3__family,FP,15,"[4,0,1]",structural_expression,strict,attribute_expression,3,"{""attribute/waistline"":4,""part/garment parts"":1}",,436
+type3__family,FP,16,"[4,0,2]",structural_expression,strict,attribute_expression,2,"{""attribute/waistline"":4,""part/garment parts"":2}",,3031
+type3__family,FP,19,"[5,0,1]",structural_expression,strict,attribute_expression,4,"{""attribute/waistline"":5,""part/garment parts"":1}",,20
+type3__family,FP,22,"[6,0,1]",structural_expression,strict,attribute_expression,5,"{""attribute/waistline"":6,""part/garment parts"":1}",,1
+type3__family,FP,26,"[7,0,2]",structural_expression,strict,attribute_expression,5,"{""attribute/waistline"":7,""part/garment parts"":2}",,3
+type3__family,FP,35,"[11,0,2]",structural_expression,strict,attribute_expression,9,"{""attribute/waistline"":11,""part/garment parts"":2}",,1
+type3__family,FP,4,"[1,0,1]",structural_expression,tie_only,,,,"{""attribute_expression"":0,""surface_expression"":0,""tag_terms"":-1,""taxonomic_category"":-1}",27649
+type3__family,FP,42,"[14,1,0]",structural_expression,strict,attribute_expression,14,"{""attribute/waistline"":14,""category/wholebody"":1}",,4
+type3__family,FP,44,"[15,1,0]",structural_expression,strict,attribute_expression,15,"{""attribute/waistline"":15,""category/wholebody"":1}",,1
+type3__family,FP,52,"[24,2,0]",structural_expression,strict,attribute_expression,24,"{""attribute/waistline"":24,""category/wholebody"":2}",,1
+type3__family,FP,53,"[26,2,0]",structural_expression,strict,attribute_expression,26,"{""attribute/waistline"":26,""category/wholebody"":2}",,1
+type3__family,FP,6,"[1,1,0]",taxonomic_category,tie_only,,,,"{""attribute_expression"":0,""structural_expression"":0,""surface_expression"":0,""tag_terms"":-1}",25
+type3__family,FP,8,"[2,0,1]",structural_expression,strict,attribute_expression,1,"{""attribute/waistline"":2,""part/garment parts"":1}",,52244
+type3__family,FP,9,"[2,0,2]",structural_expression,tie_only,,,,"{""attribute_expression"":0,""surface_expression"":0,""tag_terms"":-2,""taxonomic_category"":-2}",46613
+type_attr_part__family,DF,1,"[1,0]",taxonomic_category,strict,tag_terms,1,"{""attribute/nickname"":1}",,32017
+type_attr_part__family,FP,1,"[0,1]",structural_expression,strict,taxonomic_category,1,"{""category/arms and hands"":2,""part/garment parts"":1}",,24032
+type_attr_part__family,FP,10,"[3,1]",structural_expression,strict,attribute_expression,2,"{""attribute/waistline"":3,""part/garment parts"":1}",,2736
+type_attr_part__family,FP,12,"[4,1]",structural_expression,strict,attribute_expression,3,"{""attribute/waistline"":4,""part/garment parts"":1}",,436
+type_attr_part__family,FP,13,"[4,2]",structural_expression,strict,attribute_expression,2,"{""attribute/waistline"":4,""part/garment parts"":2}",,3031
+type_attr_part__family,FP,15,"[5,1]",structural_expression,strict,attribute_expression,4,"{""attribute/waistline"":5,""part/garment parts"":1}",,20
+type_attr_part__family,FP,17,"[6,1]",structural_expression,strict,attribute_expression,5,"{""attribute/waistline"":6,""part/garment parts"":1}",,1
+type_attr_part__family,FP,2,"[0,2]",structural_expression,strict,taxonomic_category,1,"{""category/arms and hands"":3,""part/garment parts"":2}",,17634
+type_attr_part__family,FP,20,"[7,2]",structural_expression,strict,attribute_expression,5,"{""attribute/waistline"":7,""part/garment parts"":2}",,3
+type_attr_part__family,FP,25,"[11,2]",structural_expression,strict,attribute_expression,9,"{""attribute/waistline"":11,""part/garment parts"":2}",,1
+type_attr_part__family,FP,3,"[1,0]",taxonomic_category,strict,attribute_expression,1,"{""attribute/waistline"":1}",,167
+type_attr_part__family,FP,36,"[24,0]",structural_expression,strict,attribute_expression,24,"{""attribute/waistline"":24}",,1
+type_attr_part__family,FP,37,"[26,0]",structural_expression,strict,attribute_expression,26,"{""attribute/waistline"":26}",,1
+type_attr_part__family,FP,4,"[1,1]",structural_expression,strict,taxonomic_category,1,"{""attribute/waistline"":1,""category/arms and hands"":2,""part/garment parts"":1}",,27649
+type_attr_part__family,FP,5,"[1,2]",structural_expression,strict,taxonomic_category,1,"{""attribute/waistline"":1,""category/arms and hands"":3,""part/garment parts"":2}",,1
+type_attr_part__family,FP,7,"[2,1]",structural_expression,strict,attribute_expression,1,"{""attribute/waistline"":2,""part/garment parts"":1}",,52244
+type_attr_part__family,FP,8,"[2,2]",structural_expression,strict,taxonomic_category,1,"{""attribute/waistline"":2,""category/arms and hands"":3,""part/garment parts"":2}",,46613

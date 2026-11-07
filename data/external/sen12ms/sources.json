@@ -1,0 +1,36 @@
+{
+ "study": "SEN12MS (Schmitt et al., 2019): Path B and witness pairs for the released 17-class scene label",
+ "license": "CC BY 4.0",
+ "repository": "https://github.com/schmitt-muc/SEN12MS",
+ "commit": "3a41236a28d08d253ebe2fa1a081e5e32aa7eab4",
+ "files": [
+  {
+   "path": "IGBP_probability_labels.pkl",
+   "url": "https://raw.githubusercontent.com/schmitt-muc/SEN12MS/3a41236a28d08d253ebe2fa1a081e5e32aa7eab4/labels/IGBP_probability_labels.pkl",
+   "sha256": "3a04fabf7a83e4aee331d77727ff427804c576fd40477b40a76c31f3411aed85",
+   "git_blob_sha1": "811a117215f20f12b3e1b2a21185db0b0870079d",
+   "bytes": 41487095
+  },
+  {
+   "path": "single_label_IGBPfull_ClsNum.txt",
+   "url": "https://raw.githubusercontent.com/schmitt-muc/SEN12MS/3a41236a28d08d253ebe2fa1a081e5e32aa7eab4/labels/single_label_IGBPfull_ClsNum.txt",
+   "sha256": "c0fb8842db5214ac804a5e3e55f515872afded470a23aa7a8283393f9ca3b5e7",
+   "git_blob_sha1": "9bf6b9f8e95d02ef59dedc51f5c437ea956e0baf",
+   "bytes": 6364395
+  },
+  {
+   "path": "single_label_IGBPsimple_ClsNum.txt",
+   "url": "https://raw.githubusercontent.com/schmitt-muc/SEN12MS/3a41236a28d08d253ebe2fa1a081e5e32aa7eab4/labels/single_label_IGBPsimple_ClsNum.txt",
+   "sha256": "953c3e9c4c01cf748d6fb677c158ca2ffd1ff8c92449742d7cb17789628c5a6f",
+   "git_blob_sha1": "26884146f05899c6ed5ee5645c2b8d62a147bf1c",
+   "bytes": 6270251
+  },
+  {
+   "path": "dataset.py",
+   "url": "https://raw.githubusercontent.com/schmitt-muc/SEN12MS/3a41236a28d08d253ebe2fa1a081e5e32aa7eab4/classification/dataset.py",
+   "sha256": "797b91597fddf4f09782daff92770eca66328db4b7e73de4110cf57a075cb403",
+   "git_blob_sha1": "8a4348c10bca882d704a92b9f644a06d38014d8c",
+   "bytes": 14536
+  }
+ ]
+}

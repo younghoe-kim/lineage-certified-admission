@@ -1,0 +1,93 @@
+\newcommand{\SuppTablePathB}{%
+\begin{table}[htbp]
+\centering
+\caption{Exact verification of the 10 Path B \textsc{unsafe} certificates; every certificate passes. Value: type counts (attribute, category, part) for the type view of the family task, (attribute, part) for type$\{$attr., part$\}$, and (STR, SURF, TAX, attribute, category, part) for family-3+type of the facet task. Values: basis-block values of the fiber, each checked; an unbounded fiber is checked by the argument of Section~A.2. Margin: smallest gap between the certified label and the largest rival over the states of the fiber.}
+\label{tab:s-pathb}
+\scriptsize
+\setlength{\tabcolsep}{2.5pt}
+\begin{tabular}{@{}lllllrr@{}}
+\toprule
+View & Set & Value & Label & Method & Values & Margin \\
+\midrule
+Family-3+type & FP & (0,0,1,2,1,0) & waistline & enumeration & 9 & 1 \\
+Type & DF & (0,1,0) & TAX & enumeration & 3 & 1 \\
+Type & FP & (0,0,1) & STR & enumeration & 3 & 1 \\
+Type & FP & (0,0,2) & STR & enumeration & 6 & 2 \\
+Type & FP & (0,1,0) & TAX & enumeration & 9 & 1 \\
+Type & FP & (0,2,0) & TAX & enumeration & 45 & 2 \\
+Type & FP & (1,0,2) & STR & enumeration & 72 & 1 \\
+Type & FP & (1,2,0) & TAX & enumeration & 540 & 1 \\
+Type$\{$attr., part$\}$ & DF & (0,0) & TAX & argument & unbounded & 1 \\
+Type$\{$attr., part$\}$ & FP & (0,0) & TAX & argument & unbounded & 1 \\
+\bottomrule
+\end{tabular}
+\end{table}}
+
+\newcommand{\SuppTableRegistry}{%
+\begin{table}[htbp]
+\centering
+\caption{Registry maps. $T$ (facet to type) and $W$ (facet to family) on the 27 authority facets, with membership in the dataset supports $S_i=\Pi(K_i)$. $T(f)$ is the term type; \texttt{type::} materializes the attribute, category and part types. The family \texttt{other} lies outside the label set. $^\ast$The released family block materializes color as ATTR.}
+\label{tab:s-registry}
+\scriptsize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{@{}>{\raggedright\arraybackslash}p{0.43\columnwidth}lllc>{\raggedright\arraybackslash}p{0.13\columnwidth}@{}}
+\toprule
+Facet $f$ & $T(f)$ & $W(f)$ & $S_{\mathrm{DF}}$ & $S_{\mathrm{FP}}$ & Note \\
+\midrule
+attribute type & attr type & other &  &  & authority only \\
+fit & attribute & STR & $\bullet$ & $\bullet$ &  \\
+garment detail & attribute & STR & $\bullet$ & $\bullet$ &  \\
+leather & attribute & SURF & $\bullet$ & $\bullet$ &  \\
+length & attribute & STR & $\bullet$ & $\bullet$ &  \\
+neckline type & attribute & STR & $\bullet$ & $\bullet$ &  \\
+nickname & attribute & TAG & $\bullet$ &  &  \\
+non textile material type & attribute & SURF & $\bullet$ & $\bullet$ &  \\
+opening type & attribute & STR & $\bullet$ & $\bullet$ &  \\
+silhouette & attribute & STR & $\bullet$ & $\bullet$ &  \\
+textile finishing manufacturing techniques & attribute & SURF & $\bullet$ & $\bullet$ &  \\
+textile material type & attribute & SURF & $\bullet$ & $\bullet$ &  \\
+textile pattern & attribute & SURF & $\bullet$ & $\bullet$ &  \\
+waistline & attribute & ATTR & $\bullet$ & $\bullet$ &  \\
+arms and hands & category & TAX &  & $\bullet$ &  \\
+head & category & TAX &  & $\bullet$ &  \\
+legs and feet & category & TAX &  & $\bullet$ &  \\
+lowerbody & category & TAX & $\bullet$ & $\bullet$ &  \\
+neck & category & TAX &  & $\bullet$ &  \\
+others & category & TAX &  & $\bullet$ &  \\
+upperbody & category & TAX & $\bullet$ & $\bullet$ &  \\
+waist & category & TAX &  & $\bullet$ &  \\
+wholebody & category & TAX & $\bullet$ & $\bullet$ &  \\
+color & color & SURF$^\ast$ &  &  & no active core term \\
+closures & part & STR &  & $\bullet$ &  \\
+decorations & part & STR &  & $\bullet$ &  \\
+garment parts & part & STR &  & $\bullet$ &  \\
+\bottomrule
+\end{tabular}
+\end{table}}
+
+\newcommand{\SuppTableSupport}{%
+\begin{table*}[!t]
+\centering
+\caption{Path~B on the released supports and on the three counterfactual coordinate sets of Section~E: certificates (Cert.), \textsc{unsafe} mass $m^{\mathrm{U}}$ and \textsc{unverified} mass $m^{\mathrm{V}}$ per view and dataset. Last row: all Path~B certificates / single-label fibers that stay open, each checked exactly. The registry maps, \textsc{full-conform}, the evidence, the labels, the view projections, the paths and the solver are fixed; \textsc{query-conform} is recomputed on each set.}
+\label{tab:s-support}
+\scriptsize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{@{}llrrrrrrrrrrrr@{}}
+\toprule
+View & Set & \multicolumn{3}{c}{Released} & \multicolumn{3}{c}{Union} & \multicolumn{3}{c}{Intersection} & \multicolumn{3}{c}{Released${}+{}$color} \\
+\cmidrule(lr){3-5}\cmidrule(lr){6-8}\cmidrule(lr){9-11}\cmidrule(lr){12-14}
+ & & Cert. & $m^{\mathrm{U}}$ & $m^{\mathrm{V}}$ & Cert. & $m^{\mathrm{U}}$ & $m^{\mathrm{V}}$ & Cert. & $m^{\mathrm{U}}$ & $m^{\mathrm{V}}$ & Cert. & $m^{\mathrm{U}}$ & $m^{\mathrm{V}}$ \\
+\midrule
+Type (family) & DF & 1 & 0.0412 & 0.1612 & 1 & 0.0412 & 0.1612 & 1 & 0.0412 & 0.5312 & 0 & 0.0000 & 0.2024 \\
+Type (family) & FP & 6 & 0.3818 & 0.5365 & 6 & 0.3818 & 0.5365 & 3 & 0.0009 & 0.9175 & 0 & 0.0000 & 0.9183 \\
+Type$\{$attr., part$\}$ (family) & DF & 1 & 0.0412 & 0.1611 & 1 & 0.0412 & 0.1611 & 1 & 0.0412 & 0.5308 & 0 & 0.0000 & 0.2024 \\
+Type$\{$attr., part$\}$ (family) & FP & 1 & 0.2596 & 0.6577 & 1 & 0.2596 & 0.6577 & 1 & 0.0004 & 0.9170 & 0 & 0.0000 & 0.9174 \\
+Family-3 (facet) & DF & 0 & 0.0000 & 0.0489 & 0 & 0.0000 & 0.0489 & 0 & 0.0000 & 0.4384 & 0 & 0.0000 & 0.0489 \\
+Family-3 (facet) & FP & 0 & 0.0000 & 0.0012 & 0 & 0.0000 & 0.0012 & 0 & 0.0000 & 0.7701 & 0 & 0.0000 & 0.0012 \\
+Family-3+type (facet) & DF & 0 & 0.0000 & 0.0562 & 0 & 0.0000 & 0.0562 & 11 & 0.0004 & 0.4398 & 0 & 0.0000 & 0.0562 \\
+Family-3+type (facet) & FP & 1 & $2.9{\cdot}10^{-6}$ & 0.1481 & 0 & 0.0000 & 0.1481 & 1 & $2.9{\cdot}10^{-6}$ & 0.9170 & 1 & $2.9{\cdot}10^{-6}$ & 0.1481 \\
+\midrule
+All Path~B views & & \multicolumn{3}{c}{10 / 659} & \multicolumn{3}{c}{9 / 660} & \multicolumn{3}{c}{18 / 411} & \multicolumn{3}{c}{1 / 668} \\
+\bottomrule
+\end{tabular}
+\end{table*}}

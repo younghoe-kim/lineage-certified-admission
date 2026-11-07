@@ -1,0 +1,21 @@
+{
+ "checks_total": 17,
+ "checks_failed": 0,
+ "failed_checks": [],
+ "all_pass": true,
+ "pipeline_library_imported": false,
+ "patches_by_verdict": {
+  "UNSAFE": 70969,
+  "NONDETERMINED": 33465,
+  "UNVERIFIED": 76228
+ },
+ "fibers_by_verdict": {
+  "UNSAFE": 39911,
+  "NONDETERMINED": 1537,
+  "UNVERIFIED": 72560
+ },
+ "certified_counts_vary": {
+  "patches": 35101,
+  "fibers": 33964
+ }
+}

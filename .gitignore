@@ -1,0 +1,15 @@
+# Input view: restricted (DATA_LICENSE.md); only its README and hashes are tracked
+data/hub/*
+!data/hub/README.md
+!data/hub/SHA256SUMS
+
+# Public files that make fetch-external, fetch-kg and fetch-sen12ms download
+data/external/MaDI-Bench/
+data/external/kg/files/
+data/external/sen12ms/files/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

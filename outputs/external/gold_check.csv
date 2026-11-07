@@ -1,0 +1,7 @@
+query_id,domain,target_attribute,gold_cells,L0_direct,L1_exact_derived,unverified_ambiguous,unverified_no_match,empty,classified,consistent,contradictions,complete_set_equal,component_only,unverified_gold_normalization,independent_match
+Q01-games-esrb,games,ESRB,11,11,0,0,0,0,11,11,0,11,0,0,1
+Q02-games-genres,games,genres,221,0,19,0,202,0,19,19,0,17,2,202,1
+Q03-games-platform,games,platform,127,12,0,0,115,0,12,12,0,12,0,115,1
+Q04-companies-country,companies,country,62,29,0,0,33,0,29,29,0,29,0,33,1
+Q05-companies-industry,companies,industry,112,22,20,0,70,0,42,42,0,42,0,70,1
+Q06-music-genre,music,genre,13,0,0,0,13,0,0,0,0,0,0,13,1

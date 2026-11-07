@@ -1,0 +1,6 @@
+mutation_id,pass,primary_check,detail
+M1,1,registered B^-1; Path B->A; rowwise verdict equals L0 facet,nonnegative=True; selector_ok=True; rowwise_equal=True
+M2,1,mutation-induced FULL-CONFORM failures equal independently generated selected-UID row set on baseline-conforming rows,selected=12; hit_rows=16209; precision=1.0; recall=1.0
+M3,1,dataset-constant Path-C coordinate preserves fibers/verdict while pooled NMI alarms,NMI_facet=0.253894; NMI_family=0.142205
+M4,1,positive rescale/permutation preserves exact partition; Binary sensitivity reported,injective_equal=True; binary_changed=True
+M5,1,permuted labels -> recomputed label condition -> full verdicts re-audit; invalid rows become UNVERIFIED query defects,"{""defect_delta_mismatches"":0,""invalid_baseline_query_rows"":11972459,""invalid_counts"":{""facet"":{""DF"":224954,""FP"":272155},""family"":{""DF"":164859,""FP"":150216}},""nonvacuous"":true,""recomputed_certificate_label_conflicts"":0,""stale_negative_control_checks"":4,""stale_negative_control_pass"":true,""unsafe_on_invalid"":0,""view_dataset_checks"":64}"

@@ -1,0 +1,33 @@
+view_id,task,exposed_blocks,projection_json,projection_source
+core_plus_type__family,family,core::|type::,"{""core::"":""ALL"",""type::"":""ALL""}",view schema: whole exposed blocks
+facet_only__family,family,facet::,"{""facet::"":""ALL""}",view schema: whole exposed blocks
+factorial_F0M0T0__facet,facet,core::,"{""core::"":""ALL""}",view schema: whole exposed blocks
+factorial_F0M0T0__family,family,core::,"{""core::"":""ALL""}",view schema: whole exposed blocks
+factorial_F0M0T1__facet,facet,core::|type::,"{""core::"":""ALL"",""type::"":""ALL""}",view schema: whole exposed blocks
+factorial_F0M0T1__family,family,core::|type::,"{""core::"":""ALL"",""type::"":""ALL""}",view schema: whole exposed blocks
+factorial_F0M1T0__facet,facet,core::|family::,"{""core::"":""ALL"",""family::"":""ALL""}",view schema: whole exposed blocks
+factorial_F0M1T0__family,family,core::|family::,"{""core::"":""ALL"",""family::"":""ALL""}",view schema: whole exposed blocks
+factorial_F0M1T1__facet,facet,core::|family::|type::,"{""core::"":""ALL"",""family::"":""ALL"",""type::"":""ALL""}",view schema: whole exposed blocks
+factorial_F0M1T1__family,family,core::|family::|type::,"{""core::"":""ALL"",""family::"":""ALL"",""type::"":""ALL""}",view schema: whole exposed blocks
+factorial_F1M0T0__facet,facet,core::|facet::,"{""core::"":""ALL"",""facet::"":""ALL""}",view schema: whole exposed blocks
+factorial_F1M0T0__family,family,core::|facet::,"{""core::"":""ALL"",""facet::"":""ALL""}",view schema: whole exposed blocks
+factorial_F1M0T1__facet,facet,core::|facet::|type::,"{""core::"":""ALL"",""facet::"":""ALL"",""type::"":""ALL""}",view schema: whole exposed blocks
+factorial_F1M0T1__family,family,core::|facet::|type::,"{""core::"":""ALL"",""facet::"":""ALL"",""type::"":""ALL""}",view schema: whole exposed blocks
+factorial_F1M1T0__facet,facet,core::|facet::|family::,"{""core::"":""ALL"",""facet::"":""ALL"",""family::"":""ALL""}",view schema: whole exposed blocks
+factorial_F1M1T0__family,family,core::|facet::|family::,"{""core::"":""ALL"",""facet::"":""ALL"",""family::"":""ALL""}",view schema: whole exposed blocks
+factorial_F1M1T1__facet,facet,core::|facet::|family::|type::,"{""core::"":""ALL"",""facet::"":""ALL"",""family::"":""ALL"",""type::"":""ALL""}",view schema: whole exposed blocks
+factorial_F1M1T1__family,family,core::|facet::|family::|type::,"{""core::"":""ALL"",""facet::"":""ALL"",""family::"":""ALL"",""type::"":""ALL""}",view schema: whole exposed blocks
+family3__facet,facet,family::,"{""family::"":[""structural_expression"",""surface_expression"",""taxonomic_category""]}",declared coordinate projection
+family3_plus_type__facet,facet,family::|type::,"{""family::"":[""structural_expression"",""surface_expression"",""taxonomic_category""],""type::"":[""attribute"",""category"",""part""]}",declared coordinate projection
+identity_admitted__facet,facet,core::|family::|type::,"{""core::"":""ALL"",""family::"":""ALL"",""type::"":""ALL""}",view schema: whole exposed blocks
+identity_admitted__family,family,core::|facet::|type::,"{""core::"":""ALL"",""facet::"":""ALL"",""type::"":""ALL""}",view schema: whole exposed blocks
+inst_family__facet,facet,inst_family::,"{""inst_family::"":""ALL""}",view schema: whole exposed blocks
+inst_family__family,family,inst_family::,"{""inst_family::"":""ALL""}",view schema: whole exposed blocks
+inst_sem__facet,facet,inst_sem::,"{""inst_sem::"":""ALL""}",view schema: whole exposed blocks
+inst_sem__family,family,inst_sem::,"{""inst_sem::"":""ALL""}",view schema: whole exposed blocks
+l0_facet__facet,facet,facet::,"{""facet::"":""ALL""}",view schema: whole exposed blocks
+l0_family__family,family,family::,"{""family::"":""ALL""}",view schema: whole exposed blocks
+rep_core__facet,facet,rep_core::,"{""rep_core::"":""ALL""}",view schema: whole exposed blocks
+rep_core__family,family,rep_core::,"{""rep_core::"":""ALL""}",view schema: whole exposed blocks
+type3__family,family,type::,"{""type::"":[""attribute"",""category"",""part""]}",declared coordinate projection
+type_attr_part__family,family,type::,"{""type::"":[""attribute"",""part""]}",declared coordinate projection

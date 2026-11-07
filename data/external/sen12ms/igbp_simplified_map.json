@@ -1,0 +1,10 @@
+{
+  "authority": "Schmitt and Wu (2021), Table 2; official loader classification/dataset.py at the pinned commit",
+  "classes_1based": {"1": "Evergreen Needleleaf Forests", "2": "Evergreen Broadleaf Forests", "3": "Deciduous Needleleaf Forests",
+    "4": "Deciduous Broadleaf Forests", "5": "Mixed Forests", "6": "Closed Shrublands", "7": "Open Shrublands",
+    "8": "Woody Savannas", "9": "Savannas", "10": "Grasslands", "11": "Permanent Wetlands", "12": "Croplands",
+    "13": "Urban and Built-Up Lands", "14": "Cropland/Natural Vegetation Mosaics", "15": "Permanent Snow and Ice",
+    "16": "Barren", "17": "Water Bodies"},
+  "groups_1based": [[1, 2, 3, 4, 5], [6, 7], [8, 9], [10], [11], [12, 14], [13], [15], [16], [17]],
+  "group_names": ["Forest", "Shrubland", "Savanna", "Grassland", "Wetlands", "Croplands", "Urban/Built-up", "Snow/Ice", "Barren", "Water"]
+}

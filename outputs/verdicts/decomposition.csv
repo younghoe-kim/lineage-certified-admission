@@ -1,0 +1,3 @@
+dataset,view_id,primary_path,alternative_path,primary_unsafe_rows,primary_unsafe_full_rows,primary_unsafe_outside_full_rows,alternative_unsafe_rows,alternative_unsafe_outside_full_rows,full_conform_rowwise_equal
+DF,identity_admitted__family,W(facet basis),Pi|W(core basis),181119,180715,404,180715,0,1
+FP,identity_admitted__family,W(facet basis),Pi|W(core basis),324407,285859,38548,285859,0,1

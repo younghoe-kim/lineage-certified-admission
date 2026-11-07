@@ -1,0 +1,15 @@
+query_id,domain,target_attribute,source_dataset,source_column,gold_label,gold_score,scope_role
+Q01-games-esrb,games,ESRB,metacritic,age_rating,1,1.0,AUDIT_SOURCE_COLUMN
+Q01-games-esrb,games,ESRB,sales,age_classification,1,1.0,AUDIT_SOURCE_COLUMN
+Q02-games-genres,games,genres,dbpedia,genre,1,1.0,AUDIT_SOURCE_COLUMN
+Q02-games-genres,games,genres,metacritic,genres,1,1.0,AUDIT_SOURCE_COLUMN
+Q02-games-genres,games,genres,sales,genre,1,1.0,AUDIT_SOURCE_COLUMN
+Q03-games-platform,games,platform,dbpedia,system,1,1.0,AUDIT_SOURCE_COLUMN
+Q03-games-platform,games,platform,metacritic,console,1,1.0,AUDIT_SOURCE_COLUMN
+Q03-games-platform,games,platform,sales,hw,1,1.0,AUDIT_SOURCE_COLUMN
+Q04-companies-country,companies,country,dbpedia,nation,1,1.0,AUDIT_SOURCE_COLUMN
+Q04-companies-country,companies,country,forbes,region,1,1.0,AUDIT_SOURCE_COLUMN
+Q04-companies-country,companies,country,fullcontact,Attribute_3,1,1.0,AUDIT_SOURCE_COLUMN
+Q05-companies-industry,companies,industry,dbpedia,sector,1,1.0,AUDIT_SOURCE_COLUMN
+Q05-companies-industry,companies,industry,forbes,business_segment,1,1.0,AUDIT_SOURCE_COLUMN
+Q06-music-genre,music,genre,discogs,category,1,1.0,AUDIT_SOURCE_COLUMN
