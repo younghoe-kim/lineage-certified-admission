@@ -1,0 +1,104 @@
+{
+ "schema_version": "1",
+ "study": "held-out triples of the WN18 and WN18RR link-prediction releases against the WordNet table of reflexive pointers",
+ "registry": "wordnet_reflexive.yaml",
+ "files": [
+  {
+   "key": "wn18_train",
+   "path": "WN18/train.txt",
+   "release": "WN18",
+   "repository": "https://github.com/ibalazevic/TuckER",
+   "commit": "23aff592115ee91e099ce490cdbea28ef026fc54",
+   "repository_path": "data/WN18/train.txt",
+   "url": "https://raw.githubusercontent.com/ibalazevic/TuckER/23aff592115ee91e099ce490cdbea28ef026fc54/data/WN18/train.txt",
+   "license": "WordNet 3.0 license (data extracted from WordNet 3.0)",
+   "bytes": 4758553,
+   "sha256": "24c9b02dc57d3ae8ca8467ce355995edee7be8eddc3bd070ee34d3c6fc3c95eb"
+  },
+  {
+   "key": "wn18_valid",
+   "path": "WN18/valid.txt",
+   "release": "WN18",
+   "repository": "https://github.com/ibalazevic/TuckER",
+   "commit": "23aff592115ee91e099ce490cdbea28ef026fc54",
+   "repository_path": "data/WN18/valid.txt",
+   "url": "https://raw.githubusercontent.com/ibalazevic/TuckER/23aff592115ee91e099ce490cdbea28ef026fc54/data/WN18/valid.txt",
+   "license": "WordNet 3.0 license (data extracted from WordNet 3.0)",
+   "bytes": 169033,
+   "sha256": "13347bfb5e17d1cae003e0bfe29b4716d3ab748e8cfb6af997138d37da3a51dc"
+  },
+  {
+   "key": "wn18_test",
+   "path": "WN18/test.txt",
+   "release": "WN18",
+   "repository": "https://github.com/ibalazevic/TuckER",
+   "commit": "23aff592115ee91e099ce490cdbea28ef026fc54",
+   "repository_path": "data/WN18/test.txt",
+   "url": "https://raw.githubusercontent.com/ibalazevic/TuckER/23aff592115ee91e099ce490cdbea28ef026fc54/data/WN18/test.txt",
+   "license": "WordNet 3.0 license (data extracted from WordNet 3.0)",
+   "bytes": 168947,
+   "sha256": "d22c19d176d4ba6a6f0d0c6bfce39ab3c16e3b20e1df6f9efe0d9ed86542fa10"
+  },
+  {
+   "key": "wn18rr_archive",
+   "path": "conve/WN18RR.tar.gz",
+   "release": "WN18RR",
+   "repository": "https://github.com/TimDettmers/ConvE",
+   "commit": "f3c0eb286025410fa5b4c04696c918264163d0ca",
+   "repository_path": "WN18RR.tar.gz",
+   "url": "https://raw.githubusercontent.com/TimDettmers/ConvE/f3c0eb286025410fa5b4c04696c918264163d0ca/WN18RR.tar.gz",
+   "license": "WordNet 3.0 license (data extracted from WordNet 3.0)",
+   "bytes": 892861,
+   "sha256": "1eb9152f804c140d163462c0d49f65e5a0b30ab5fbb375c5e3353c11a6249060",
+   "members": [
+    "train.txt",
+    "valid.txt",
+    "test.txt"
+   ]
+  },
+  {
+   "key": "wn18rr_script",
+   "path": "conve/create_WN18RR.py",
+   "release": "WN18RR",
+   "repository": "https://github.com/TimDettmers/ConvE",
+   "commit": "f3c0eb286025410fa5b4c04696c918264163d0ca",
+   "repository_path": "create_WN18RR.py",
+   "url": "https://raw.githubusercontent.com/TimDettmers/ConvE/f3c0eb286025410fa5b4c04696c918264163d0ca/create_WN18RR.py",
+   "license": "MIT (ConvE repository)",
+   "bytes": 1450,
+   "sha256": "450fcadf1f5b82325487912d4323bcee9272d0aa4adc993de3c3b92467eaaae7",
+   "read_as": "text; the list predicates_to_remove is parsed as a literal, the script is never run"
+  },
+  {
+   "key": "wordnet",
+   "path": "wordnet/wordnet.zip",
+   "release": "WordNet 3.0",
+   "repository": "https://github.com/nltk/nltk_data",
+   "commit": "550b6625bcef1f2abff2ff770a5a0d272c9c6b2a",
+   "repository_path": "packages/corpora/wordnet.zip",
+   "url": "https://raw.githubusercontent.com/nltk/nltk_data/550b6625bcef1f2abff2ff770a5a0d272c9c6b2a/packages/corpora/wordnet.zip",
+   "license": "WordNet 3.0 license (wordnet/LICENSE inside the archive)",
+   "bytes": 10775600,
+   "sha256": "cbda5ea6eef7f36a97a43d4a75f85e07fccbb4f23657d27b4ccbc93e2646ab59",
+   "members_read": [
+    "wordnet/data.noun",
+    "wordnet/data.verb",
+    "wordnet/data.adj",
+    "wordnet/data.adv"
+   ]
+  },
+  {
+   "key": "wn18_definitions",
+   "path": "WN18/wordnet-mlj12-definitions.txt",
+   "release": "WN18",
+   "repository": "https://github.com/ibalazevic/TuckER",
+   "commit": "23aff592115ee91e099ce490cdbea28ef026fc54",
+   "repository_path": "data/WN18/wordnet-mlj12-definitions.txt",
+   "url": "https://raw.githubusercontent.com/ibalazevic/TuckER/23aff592115ee91e099ce490cdbea28ef026fc54/data/WN18/wordnet-mlj12-definitions.txt",
+   "license": "WordNet 3.0 license (data extracted from WordNet 3.0)",
+   "bytes": 4414562,
+   "sha256": "70d85bc995d4f82c6c1038d6a3869a149e50622fbdf846af3ab45c519521f627",
+   "read_as": "text; the part-of-speech tag of each entity's word, for one diagnostic of the WordNet check only"
+  }
+ ]
+}

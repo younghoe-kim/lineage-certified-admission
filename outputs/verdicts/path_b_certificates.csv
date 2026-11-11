@@ -1,0 +1,11 @@
+view_id,dataset,group_index,fiber_value,certified_label,verification_method,integer_states_checked,state_set_sha256,free_coordinate_count,minimum_strict_margin,maximum_strict_margin,rival_optima_exact_match,pass
+family3_plus_type__facet,FP,1,"[0,0,1,2,1,0]",attribute/waistline,exhaustive_integer_enumeration,9,ae9d1e9e9c56730ca6050b880e03e0a74ae49455ff6956a64272b71f68df615c,0,1,1,1,1
+type3__family,DF,0,"[0,1,0]",taxonomic_category,exhaustive_integer_enumeration,3,28b2dedb8a4c8dd7e3babe0e7d6e54b6b6edc3d32c71e5f9129cf55825c4df1a,0,1,1,1,1
+type3__family,FP,0,"[0,0,1]",structural_expression,exhaustive_integer_enumeration,3,a9fd736bb901f83045b91d90f2f3b16e04b20be302ca98476a3d1939650cae77,0,1,1,1,1
+type3__family,FP,1,"[0,0,2]",structural_expression,exhaustive_integer_enumeration,6,4b1c033bf65cdd78341a90ab2c9eb8db377a39ca65470090f1a3db45caef90de,0,2,2,1,1
+type3__family,FP,2,"[0,1,0]",taxonomic_category,exhaustive_integer_enumeration,9,e864dc9972c90e496ba857cd6b3a86d8473a5ccad893bd54da0a464a1161402b,0,1,1,1,1
+type3__family,FP,3,"[0,2,0]",taxonomic_category,exhaustive_integer_enumeration,45,c9c31b9e9dfa01ae171aa8c53e43699bebceee6f78919be334c32cfdb05c9507,0,2,2,1,1
+type3__family,FP,5,"[1,0,2]",structural_expression,exhaustive_integer_enumeration,72,eae648a6c113e2a6c94e787243617986892541c61a98ae78fdc0ddb412bc0880,0,1,3,1,1
+type3__family,FP,7,"[1,2,0]",taxonomic_category,exhaustive_integer_enumeration,540,5b6246a7eb9288f721eff103ad931dedb7e842756f89f7394e9ecd2cc101b03b,0,1,1,1,1
+type_attr_part__family,DF,0,"[0,0]",taxonomic_category,analytic_unbounded_category_only,ALL_INFINITE_BY_PROOF,,3,1,,1,1
+type_attr_part__family,FP,0,"[0,0]",taxonomic_category,analytic_unbounded_category_only,ALL_INFINITE_BY_PROOF,,9,1,,1,1

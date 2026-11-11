@@ -1,0 +1,393 @@
+{
+ "source": {
+  "repository": "https://github.com/schmitt-muc/SEN12MS",
+  "commit": "3a41236a28d08d253ebe2fa1a081e5e32aa7eab4",
+  "files_sha256": {
+   "IGBP_probability_labels.pkl": "3a04fabf7a83e4aee331d77727ff427804c576fd40477b40a76c31f3411aed85",
+   "single_label_IGBPfull_ClsNum.txt": "c0fb8842db5214ac804a5e3e55f515872afded470a23aa7a8283393f9ca3b5e7",
+   "single_label_IGBPsimple_ClsNum.txt": "953c3e9c4c01cf748d6fb677c158ca2ffd1ff8c92449742d7cb17789628c5a6f",
+   "dataset.py": "797b91597fddf4f09782daff92770eca66328db4b7e73de4110cf57a075cb403"
+  }
+ },
+ "map": {
+  "groups_1based": [
+   [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   [
+    6,
+    7
+   ],
+   [
+    8,
+    9
+   ],
+   [
+    10
+   ],
+   [
+    11
+   ],
+   [
+    12,
+    14
+   ],
+   [
+    13
+   ],
+   [
+    15
+   ],
+   [
+    16
+   ],
+   [
+    17
+   ]
+  ],
+  "authority": "Schmitt and Wu (2021), Table 2; official loader classification/dataset.py at the pinned commit"
+ },
+ "query": "the released 17-class single label (labels/single_label_IGBPfull_ClsNum.txt), the strict arg-max of the basis block",
+ "view": "the 10 merged counts",
+ "released_label": {
+  "file": "single_label_IGBPfull_ClsNum.txt",
+  "patches": 180662,
+  "equals_strict_argmax": 180662
+ },
+ "released_label_10": {
+  "file": "single_label_IGBPsimple_ClsNum.txt",
+  "patches": 180662,
+  "equals_strict_argmax_of_view": 180662
+ },
+ "patches": 180662,
+ "pixel_denominator": 65536,
+ "support_1based": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "classes": 17,
+ "query_conform": {
+  "patches": 180662,
+  "exact_counts": 180662,
+  "map_edge_holds": 180662,
+  "label_attains_carrier_max": 180662
+ },
+ "ties": {
+  "carrier_17": 0,
+  "view_10": 0
+ },
+ "fibers": 114008,
+ "fibers_by_verdict": {
+  "UNSAFE": 39911,
+  "NONDETERMINED": 1537,
+  "UNVERIFIED": 72560
+ },
+ "patches_by_verdict": {
+  "UNSAFE": 70969,
+  "NONDETERMINED": 33465,
+  "UNVERIFIED": 76228
+ },
+ "certified_counts": {
+  "vary_in_fiber": {
+   "patches": 35101,
+   "fibers": 33964
+  },
+  "fixed_by_view": {
+   "patches": 35868,
+   "fibers": 5947
+  }
+ },
+ "nondetermined_whole_group_fibers": [
+  {
+   "merged_group_1based": [
+    12,
+    14
+   ],
+   "patches": 11291,
+   "labels_1based": {
+    "12": 11217,
+    "14": 74
+   },
+   "witness_pair": [
+    {
+     "patch": "ROIs1158_spring_s2_100_p174.tif",
+     "label_1based": 12
+    },
+    {
+     "patch": "ROIs1158_spring_s2_100_p436.tif",
+     "label_1based": 14
+    }
+   ]
+  },
+  {
+   "merged_group_1based": [
+    8,
+    9
+   ],
+   "patches": 7874,
+   "labels_1based": {
+    "8": 1501,
+    "9": 6373
+   },
+   "witness_pair": [
+    {
+     "patch": "ROIs1158_spring_s2_109_p665.tif",
+     "label_1based": 9
+    },
+    {
+     "patch": "ROIs1158_spring_s2_110_p119.tif",
+     "label_1based": 8
+    }
+   ]
+  },
+  {
+   "merged_group_1based": [
+    6,
+    7
+   ],
+   "patches": 5333,
+   "labels_1based": {
+    "6": 3,
+    "7": 5330
+   },
+   "witness_pair": [
+    {
+     "patch": "ROIs1158_spring_s2_106_p222.tif",
+     "label_1based": 7
+    },
+    {
+     "patch": "ROIs1868_summer_s2_72_p726.tif",
+     "label_1based": 6
+    }
+   ]
+  },
+  {
+   "merged_group_1based": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "patches": 5143,
+   "labels_1based": {
+    "1": 1076,
+    "2": 1219,
+    "4": 1644,
+    "5": 1204
+   },
+   "witness_pair": [
+    {
+     "patch": "ROIs1158_spring_s2_101_p405.tif",
+     "label_1based": 1
+    },
+    {
+     "patch": "ROIs1158_spring_s2_101_p578.tif",
+     "label_1based": 5
+    }
+   ]
+  }
+ ],
+ "checks": {
+  "certificates": 39911,
+  "witness_pairs": 1537,
+  "rival_states": 72560,
+  "second_states": 33964,
+  "nondetermined_fibers_with_a_certificate": 0,
+  "certified_equals_unmerged_strict_merged_max": true,
+  "milp_fibers": 112471,
+  "milp_agree": 112471
+ },
+ "per_label": [
+  {
+   "class_1based": 1,
+   "name": "Evergreen Needleleaf Forests",
+   "merged_group_size": 5,
+   "patches": 3847,
+   "unsafe": 0,
+   "nondetermined": 1419,
+   "unverified": 2428,
+   "unsafe_counts_vary": 0
+  },
+  {
+   "class_1based": 2,
+   "name": "Evergreen Broadleaf Forests",
+   "merged_group_size": 5,
+   "patches": 3836,
+   "unsafe": 0,
+   "nondetermined": 1542,
+   "unverified": 2294,
+   "unsafe_counts_vary": 0
+  },
+  {
+   "class_1based": 3,
+   "name": "Deciduous Needleleaf Forests",
+   "merged_group_size": 5,
+   "patches": 14,
+   "unsafe": 0,
+   "nondetermined": 2,
+   "unverified": 12,
+   "unsafe_counts_vary": 0
+  },
+  {
+   "class_1based": 4,
+   "name": "Deciduous Broadleaf Forests",
+   "merged_group_size": 5,
+   "patches": 7243,
+   "unsafe": 0,
+   "nondetermined": 2263,
+   "unverified": 4980,
+   "unsafe_counts_vary": 0
+  },
+  {
+   "class_1based": 5,
+   "name": "Mixed Forests",
+   "merged_group_size": 5,
+   "patches": 5129,
+   "unsafe": 0,
+   "nondetermined": 1672,
+   "unverified": 3457,
+   "unsafe_counts_vary": 0
+  },
+  {
+   "class_1based": 6,
+   "name": "Closed Shrublands",
+   "merged_group_size": 2,
+   "patches": 312,
+   "unsafe": 0,
+   "nondetermined": 17,
+   "unverified": 295,
+   "unsafe_counts_vary": 0
+  },
+  {
+   "class_1based": 7,
+   "name": "Open Shrublands",
+   "merged_group_size": 2,
+   "patches": 12251,
+   "unsafe": 0,
+   "nondetermined": 5346,
+   "unverified": 6905,
+   "unsafe_counts_vary": 0
+  },
+  {
+   "class_1based": 8,
+   "name": "Woody Savannas",
+   "merged_group_size": 2,
+   "patches": 13517,
+   "unsafe": 0,
+   "nondetermined": 2411,
+   "unverified": 11106,
+   "unsafe_counts_vary": 0
+  },
+  {
+   "class_1based": 9,
+   "name": "Savannas",
+   "merged_group_size": 2,
+   "patches": 28377,
+   "unsafe": 0,
+   "nondetermined": 7350,
+   "unverified": 21027,
+   "unsafe_counts_vary": 0
+  },
+  {
+   "class_1based": 10,
+   "name": "Grasslands",
+   "merged_group_size": 1,
+   "patches": 29441,
+   "unsafe": 28775,
+   "nondetermined": 10,
+   "unverified": 656,
+   "unsafe_counts_vary": 17510
+  },
+  {
+   "class_1based": 11,
+   "name": "Permanent Wetlands",
+   "merged_group_size": 1,
+   "patches": 1257,
+   "unsafe": 1163,
+   "nondetermined": 0,
+   "unverified": 94,
+   "unsafe_counts_vary": 1051
+  },
+  {
+   "class_1based": 12,
+   "name": "Croplands",
+   "merged_group_size": 2,
+   "patches": 31836,
+   "unsafe": 0,
+   "nondetermined": 11303,
+   "unverified": 20533,
+   "unsafe_counts_vary": 0
+  },
+  {
+   "class_1based": 13,
+   "name": "Urban and Built-Up Lands",
+   "merged_group_size": 1,
+   "patches": 20261,
+   "unsafe": 19707,
+   "nondetermined": 3,
+   "unverified": 551,
+   "unsafe_counts_vary": 12889
+  },
+  {
+   "class_1based": 14,
+   "name": "Cropland/Natural Vegetation Mosaics",
+   "merged_group_size": 2,
+   "patches": 1911,
+   "unsafe": 0,
+   "nondetermined": 127,
+   "unverified": 1784,
+   "unsafe_counts_vary": 0
+  },
+  {
+   "class_1based": 15,
+   "name": "Permanent Snow and Ice",
+   "merged_group_size": 1,
+   "patches": 0,
+   "unsafe": 0,
+   "nondetermined": 0,
+   "unverified": 0,
+   "unsafe_counts_vary": 0
+  },
+  {
+   "class_1based": 16,
+   "name": "Barren",
+   "merged_group_size": 1,
+   "patches": 9333,
+   "unsafe": 9332,
+   "nondetermined": 0,
+   "unverified": 1,
+   "unsafe_counts_vary": 815
+  },
+  {
+   "class_1based": 17,
+   "name": "Water Bodies",
+   "merged_group_size": 1,
+   "patches": 12097,
+   "unsafe": 11992,
+   "nondetermined": 0,
+   "unverified": 105,
+   "unsafe_counts_vary": 2836
+  }
+ ],
+ "scope": "The released 17-class label of a third-party release, with its class fractions, published merge and official loader at the pinned commit; the output holds aggregate counts and the released keys of the listed witness pairs."
+}

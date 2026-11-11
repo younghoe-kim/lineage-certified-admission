@@ -1,0 +1,12 @@
+{
+ "all_pass": true,
+ "basis_block_values_enumerated": 3387,
+ "certificates_checked": 38,
+ "certificates_with_free_coordinates": 6,
+ "checks_failed": 0,
+ "checks_total": 20,
+ "failed_checks": [],
+ "pipeline_library_imported": false,
+ "schema_version": "1",
+ "step": "verify_support"
+}

@@ -1,0 +1,20 @@
+# Package versions of the pinned environment (Python 3.11.15).
+cloudpickle==3.1.2
+contourpy==1.3.3
+cycler==0.12.1
+fonttools==4.68.0
+joblib==1.6.0
+kiwisolver==1.5.1
+matplotlib==3.10.9
+numpy==2.4.4
+packaging==26.3
+pandas==3.0.2
+pillow==13.0.0
+pyparsing==3.3.3
+python-dateutil==3.0.0
+PyYAML==6.0.3
+scikit-learn==1.8.0
+scipy==1.17.1
+six==1.17.0
+threadpoolctl==3.7.0
+tzdata==2026.5

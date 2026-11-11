@@ -1,0 +1,7 @@
+query_id,domain,target_attribute,source_columns,source_rows_sum,empty_rows,nonempty_rows,L0_direct_rows,L1_exact_derived_rows,unverified_ambiguous_rows,unverified_no_match_rows,L0_direct_rate_nonempty,L1_exact_derived_rate_nonempty,nontrivial_L1_min_rows,nontrivial_L1_min_rate,nontrivial_L1_query
+Q01-games-esrb,games,ESRB,2,28371,2276,26095,26095,0,0,0,1.0,0.0,100,0.01,0
+Q02-games-genres,games,genres,3,74951,216,74735,6029,2732,0,65974,0.08067170669699605,0.036555830601458485,100,0.01,1
+Q03-games-platform,games,platform,3,74951,410,74541,20969,0,0,53572,0.2813082732992581,0.0,100,0.01,0
+Q04-companies-country,companies,country,3,14016,579,13437,12122,158,0,1157,0.9021358934285927,0.011758577063332588,100,0.01,1
+Q05-companies-industry,companies,industry,2,12085,3250,8835,826,678,0,7331,0.09349179400113186,0.0767402376910017,100,0.01,1
+Q06-music-genre,music,genre,1,22627,0,22627,8434,0,0,14193,0.3727405312237592,0.0,100,0.01,0

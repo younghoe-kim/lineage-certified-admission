@@ -1,0 +1,11 @@
+cell_id,value,definition,selector
+fd_g3_df,0,row-deletion g3 of core:: signature -> family on FULL-CONFORM DF,DF family FULL_CONFORM
+fd_g3_fp,0,row-deletion g3 of core:: signature -> family on FULL-CONFORM FP,FP family FULL_CONFORM
+fd_single_df,0.52745227986104537,singleton-row mass of core:: signature on FULL-CONFORM DF family task,DF family FULL_CONFORM; determinant=core:: exact signature
+fd_single_fp,0.054970070555323193,singleton-row mass of core:: signature on FULL-CONFORM FP family task,FP family FULL_CONFORM; determinant=core:: exact signature
+instfam_cov,0.92672595625203147,instfam_n / instfam_den,DF all rows
+instfam_den,289202,denominator for instfam_n,DF all rows
+instfam_n,268011,DF rows whose released family label is contained in active inst_family:: values,DF all rows
+l0_hit,1,minimum exact lexical protected-label hit rate over four dataset-task settings before sanitization,active feature local-name exact match after NFKC/strip/collapse/casefold
+l0_hit_san,0,"maximum exact lexical protected-label hit rate over four dataset-task settings after removing facet::, family::, inst_family::",same lexical matcher on sanitized feature set
+l0_rate,1,minimum direct protected-carrier presence rate over four dataset-task settings,all rows; exact direct carrier key

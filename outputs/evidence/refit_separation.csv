@@ -1,0 +1,5 @@
+case,fit_rows,coordinates,view_id,direction,source_rows_fit,shared_feature_count,target_eval_rows,macro_f1,accuracy,dropped_coordinates,rows_carrying_dropped,drifted_rows_carrying_dropped
+A,all_source,all_source_support,identity_admitted__family,FP->DF,342181,253,256670,0.6863864378972337,0.6902559707016792,1,1,1
+B,all_source,refit_support,identity_admitted__family,FP->DF,342181,252,256670,0.6863864378972337,0.6902559707016792,1,1,1
+C,registry_conforming,refit_support,identity_admitted__family,FP->DF,291685,252,256670,0.30358789140746634,0.40725834729419097,1,1,1
+D,registry_conforming,all_source_support,identity_admitted__family,FP->DF,291685,253,256670,0.30358789140746634,0.40725834729419097,1,1,1

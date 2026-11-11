@@ -1,0 +1,41 @@
+{
+  "description": "Facts about the source release that no step can recompute from the input view; DATASHEET.md documents them. The number ledger records the first eight hex digits of each hash. The build files (the two build scripts, the bridge table that matches the anchors and the build report) are identified by SHA-256. release_builder.match_rule and build_record.rekeying state the rule they apply, and claim CL-DRIFTMECH checks on every drifted anchor the pattern that this rule leaves.",
+  "fig1": {
+    "candidate_rows": 105650,
+    "release_row_zero_based": 240961,
+    "rule": "Among the DF FULL-CONFORM anchors with 3-4 nonzero facet coordinates, at least two nonzero declared-W family coordinates and a unique declared-W maximum, the anchor with the smallest SHA-256 of its core/facet/family/type evidence (json.dumps with sort_keys=True, ensure_ascii=True) in the released benchmark. The input view renames identifiers and keeps the row order, so the anchor is bound by its zero-based row; the verdict step stops unless the candidate count and the bound row reproduce this record."
+  },
+  "release_builder": {
+    "bridge_sha256": "fbaad29a244b59d004c059f827c8ef983e665beb4bb8c855ddef17f1fa0e58c9",
+    "df_benchmark_images": 289222,
+    "df_casefold_collision_images": 20,
+    "df_casefold_collision_pairs": 10,
+    "df_inshop_images": 52712,
+    "df_instance_anchors_before_rekeying": 341934,
+    "df_matched": 289202,
+    "fp_instance_anchors_before_rekeying": 342182,
+    "fp_matched": 342182,
+    "instance_anchors_matched": 631384,
+    "instance_anchors_total": 684116,
+    "match_rule": "one-to-one match of each instance anchor to the cleaned anchor table on keys from the anchor identifier: the dataset code plus the lower-cased identifier body (DF: image path; FP: annotation file and instance index), tried in a fixed order; a key that occurs more than once on the cleaned side is not matched. The match decision uses only these keys; labels are copied and compared after matching."
+  },
+  "source_files_sha256": {
+    "anchor table": "0446d27d082d47c7c080a53bd3ac289bacf899366f69da8f5786829c64638e5e",
+    "generator specification": "45f68a223e3c996aa4e463e7229ce7827a0befb34e29b9d0bfa7a8898f6cf43e",
+    "relation table": "048171337d009b6f063d7cc8e2f6edbf4911e5f5151da83a683ffc25c9a85128",
+    "term table": "f117373f2f2b23cb1ba6bf3e295309789f87be6ccde640906ec9c0fe7eb8542e"
+  },
+  "build_record": {
+    "build_report_sha256": "d569248a2c9471f0863647ec25214a22308edc7872d89d0d7363c4886284074f",
+    "build_script_sha256": "ce9fb2662543e0a282e96452a764ee9843cf1ebbbdf8da98dcfdd88d6e277292",
+    "bridge_script_sha256": "23adfe7848fdf66f10fbd5912a7d0d1f945d6324e8f2e9659160feacaa54d4f1",
+    "conforms": true,
+    "conforms_checks": "the build writes at least one row and as many rows as the bridge matches; role blocks and the registry are not checked",
+    "rekeying": "core:: and rep_core:: keys are remapped to the cleaned authority; facet::, family::, type::, inst_family:: and inst_sem:: are copied unchanged; an entry without a cleaned identifier is dropped",
+    "dropped_core_term_entries": 117540,
+    "dropped_core_block_entries": 66440,
+    "dropped_rep_core_block_entries": 51100,
+    "core_block_events_dropped": 117475,
+    "anchors_losing_a_core_entry": 65076
+  }
+}

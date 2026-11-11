@@ -1,0 +1,95 @@
+view_id,task,direction,predictor,metric_label,targets,predicted,correct,f1
+core_plus_type__family,family,DF->FP,cosine,attribute_expression,1,0,0,0.0
+core_plus_type__family,family,DF->FP,cosine,structural_expression,196462,8112,7261,0.07098653787871381
+core_plus_type__family,family,DF->FP,cosine,surface_expression,5179,133665,860,0.012388003802829074
+core_plus_type__family,family,DF->FP,cosine,taxonomic_category,90044,90461,89978,0.9969585330046259
+core_plus_type__family,family,DF->FP,registry_rule,attribute_expression,1,310,0,0.0
+core_plus_type__family,family,DF->FP,registry_rule,structural_expression,196462,28071,27569,0.24556746669754556
+core_plus_type__family,family,DF->FP,registry_rule,surface_expression,5179,3154,1022,0.24528981159246369
+core_plus_type__family,family,DF->FP,registry_rule,taxonomic_category,90044,3486,251,0.005367261841120496
+core_plus_type__family,family,FP->DF,cosine,structural_expression,86409,0,0,0.0
+core_plus_type__family,family,FP->DF,cosine,surface_expression,86674,244743,86674,0.5230510203157955
+core_plus_type__family,family,FP->DF,cosine,taxonomic_category,83587,11927,11927,0.24974349310048788
+core_plus_type__family,family,FP->DF,registry_rule,structural_expression,86409,18726,13725,0.2610928805821087
+core_plus_type__family,family,FP->DF,registry_rule,surface_expression,86674,25183,18196,0.3253439659565338
+core_plus_type__family,family,FP->DF,registry_rule,taxonomic_category,83587,79744,31305,0.3833320067837704
+facet_only__family,family,DF->FP,cosine,attribute_expression,1,8906,1,0.00022454249466711575
+facet_only__family,family,DF->FP,cosine,structural_expression,196462,138587,138170,0.8247748836737313
+facet_only__family,family,DF->FP,cosine,surface_expression,5179,6370,2820,0.48835397004069614
+facet_only__family,family,DF->FP,cosine,taxonomic_category,90044,7461,959,0.01967078611353264
+facet_only__family,family,DF->FP,registry_rule,attribute_expression,1,1,1,1.0
+facet_only__family,family,DF->FP,registry_rule,structural_expression,196462,149952,149952,0.8657386826167534
+facet_only__family,family,DF->FP,registry_rule,surface_expression,5179,5182,5179,0.9997104526590097
+facet_only__family,family,DF->FP,registry_rule,taxonomic_category,90044,364,364,0.008052384744712857
+facet_only__family,family,FP->DF,cosine,structural_expression,86409,88070,61382,0.7036032989643453
+facet_only__family,family,FP->DF,cosine,surface_expression,86674,168600,77123,0.6042370159123138
+facet_only__family,family,FP->DF,cosine,taxonomic_category,83587,0,0,0.0
+facet_only__family,family,FP->DF,registry_rule,structural_expression,86409,78991,78991,0.9551511487303507
+facet_only__family,family,FP->DF,registry_rule,surface_expression,86674,78856,78856,0.9527698906542621
+facet_only__family,family,FP->DF,registry_rule,taxonomic_category,83587,17399,17399,0.34458241736478323
+identity_admitted__facet,facet,DF->FP,cosine,attribute/fit,116,6585,39,0.011640053723324877
+identity_admitted__facet,facet,DF->FP,cosine,attribute/garment detail,10930,18878,10637,0.7137010198604401
+identity_admitted__facet,facet,DF->FP,cosine,attribute/length,1219,2917,2,0.0009671179883945841
+identity_admitted__facet,facet,DF->FP,cosine,attribute/neckline type,1210,280,183,0.24563758389261744
+identity_admitted__facet,facet,DF->FP,cosine,attribute/non textile material type,77,3,0,0.0
+identity_admitted__facet,facet,DF->FP,cosine,attribute/opening type,17,49,0,0.0
+identity_admitted__facet,facet,DF->FP,cosine,attribute/silhouette,4445,811,530,0.20167427701674276
+identity_admitted__facet,facet,DF->FP,cosine,attribute/textile finishing manufacturing techniques,461,195,12,0.036585365853658534
+identity_admitted__facet,facet,DF->FP,cosine,attribute/textile pattern,430,645,57,0.10604651162790697
+identity_admitted__facet,facet,DF->FP,cosine,attribute/waistline,29,61,1,0.022222222222222223
+identity_admitted__facet,facet,DF->FP,cosine,category/lowerbody,5013,289,200,0.07544322897019992
+identity_admitted__facet,facet,DF->FP,cosine,category/upperbody,14231,1201,1113,0.1442457231726283
+identity_admitted__facet,facet,DF->FP,cosine,category/wholebody,3221,253,241,0.13874496257915947
+identity_admitted__facet,facet,DF->FP,registry_rule,attribute/fit,116,50,2,0.024096385542168676
+identity_admitted__facet,facet,DF->FP,registry_rule,attribute/garment detail,10930,1768,1244,0.1959363679319578
+identity_admitted__facet,facet,DF->FP,registry_rule,attribute/length,1219,3453,27,0.011558219178082191
+identity_admitted__facet,facet,DF->FP,registry_rule,attribute/neckline type,1210,579,573,0.640581330352152
+identity_admitted__facet,facet,DF->FP,registry_rule,attribute/non textile material type,77,64,2,0.028368794326241134
+identity_admitted__facet,facet,DF->FP,registry_rule,attribute/opening type,17,10,1,0.07407407407407407
+identity_admitted__facet,facet,DF->FP,registry_rule,attribute/silhouette,4445,388,250,0.10345541071798055
+identity_admitted__facet,facet,DF->FP,registry_rule,attribute/textile finishing manufacturing techniques,461,1338,127,0.14118954974986103
+identity_admitted__facet,facet,DF->FP,registry_rule,attribute/textile pattern,430,1011,84,0.11658570437196392
+identity_admitted__facet,facet,DF->FP,registry_rule,attribute/waistline,29,313,3,0.017543859649122806
+identity_admitted__facet,facet,DF->FP,registry_rule,category/lowerbody,5013,245,220,0.08368200836820083
+identity_admitted__facet,facet,DF->FP,registry_rule,category/upperbody,14231,2371,2314,0.27876159498855557
+identity_admitted__facet,facet,DF->FP,registry_rule,category/wholebody,3221,886,786,0.38276113951789625
+identity_admitted__facet,facet,FP->DF,cosine,attribute/fit,1268,15,0,0.0
+identity_admitted__facet,facet,FP->DF,cosine,attribute/garment detail,30641,11005,7016,0.3369351198194304
+identity_admitted__facet,facet,FP->DF,cosine,attribute/length,3874,0,0,0.0
+identity_admitted__facet,facet,FP->DF,cosine,attribute/neckline type,3226,0,0,0.0
+identity_admitted__facet,facet,FP->DF,cosine,attribute/non textile material type,2,1035,0,0.0
+identity_admitted__facet,facet,FP->DF,cosine,attribute/opening type,3,3693,1,0.0005411255411255411
+identity_admitted__facet,facet,FP->DF,cosine,attribute/silhouette,6312,61030,4225,0.12547889875560572
+identity_admitted__facet,facet,FP->DF,cosine,attribute/textile finishing manufacturing techniques,4396,71135,4208,0.11142444823979558
+identity_admitted__facet,facet,FP->DF,cosine,attribute/textile pattern,43856,7527,2661,0.10357511239125781
+identity_admitted__facet,facet,FP->DF,cosine,attribute/waistline,229,489,218,0.6072423398328691
+identity_admitted__facet,facet,FP->DF,cosine,category/lowerbody,26687,4446,4274,0.2745639674942987
+identity_admitted__facet,facet,FP->DF,cosine,category/upperbody,67258,18992,15397,0.35703188405797104
+identity_admitted__facet,facet,FP->DF,cosine,category/wholebody,37001,27812,11443,0.3531081727431225
+identity_admitted__facet,facet,FP->DF,registry_rule,attribute/fit,1268,598,69,0.07395498392282958
+identity_admitted__facet,facet,FP->DF,registry_rule,attribute/garment detail,30641,2477,1400,0.08454616824687482
+identity_admitted__facet,facet,FP->DF,registry_rule,attribute/length,3874,4084,511,0.128424227192762
+identity_admitted__facet,facet,FP->DF,registry_rule,attribute/neckline type,3226,3429,1461,0.43906836964688206
+identity_admitted__facet,facet,FP->DF,registry_rule,attribute/non textile material type,2,329,2,0.012084592145015106
+identity_admitted__facet,facet,FP->DF,registry_rule,attribute/opening type,3,114,1,0.017094017094017096
+identity_admitted__facet,facet,FP->DF,registry_rule,attribute/silhouette,6312,2367,890,0.20509275262126972
+identity_admitted__facet,facet,FP->DF,registry_rule,attribute/textile finishing manufacturing techniques,4396,5567,1296,0.2601626016260163
+identity_admitted__facet,facet,FP->DF,registry_rule,attribute/textile pattern,43856,15166,10278,0.34827691369319913
+identity_admitted__facet,facet,FP->DF,registry_rule,attribute/waistline,229,62,3,0.020618556701030927
+identity_admitted__facet,facet,FP->DF,registry_rule,category/lowerbody,26687,15559,10723,0.5076456942669129
+identity_admitted__facet,facet,FP->DF,registry_rule,category/upperbody,67258,18284,14334,0.3351336185733324
+identity_admitted__facet,facet,FP->DF,registry_rule,category/wholebody,37001,33618,21052,0.5962134836233874
+identity_admitted__family,family,DF->FP,cosine,attribute_expression,1,763,1,0.002617801047120419
+identity_admitted__family,family,DF->FP,cosine,structural_expression,196462,148789,147855,0.8565072946928467
+identity_admitted__family,family,DF->FP,cosine,surface_expression,5179,9835,3585,0.47755428266950845
+identity_admitted__family,family,DF->FP,cosine,taxonomic_category,90044,90633,89877,0.9948914360986734
+identity_admitted__family,family,DF->FP,registry_rule,attribute_expression,1,1,1,1.0
+identity_admitted__family,family,DF->FP,registry_rule,structural_expression,196462,149952,149952,0.8657386826167534
+identity_admitted__family,family,DF->FP,registry_rule,surface_expression,5179,5182,5179,0.9997104526590097
+identity_admitted__family,family,DF->FP,registry_rule,taxonomic_category,90044,364,364,0.008052384744712857
+identity_admitted__family,family,FP->DF,cosine,structural_expression,86409,5930,5930,0.12843977084438862
+identity_admitted__family,family,FP->DF,cosine,surface_expression,86674,238813,86674,0.5325804102775226
+identity_admitted__family,family,FP->DF,cosine,taxonomic_category,83587,11927,11927,0.24974349310048788
+identity_admitted__family,family,FP->DF,registry_rule,structural_expression,86409,78991,78991,0.9551511487303507
+identity_admitted__family,family,FP->DF,registry_rule,surface_expression,86674,78856,78856,0.9527698906542621
+identity_admitted__family,family,FP->DF,registry_rule,taxonomic_category,83587,17399,17399,0.34458241736478323

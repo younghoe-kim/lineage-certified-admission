@@ -1,0 +1,3 @@
+dataset,rows,drifted_rows,type_equals_core_types_plus_excess_as_attribute,excess_events,excess_events_on_category_facets,excess_events_on_color,type_attribute_surplus_events,T_fail_rows,T_fail_drifted_rows,W_fail_rows,W_fail_rows_with_color_excess,W_fail_rows_without_color_excess
+DF,289202,14580,14580,14966,608,14358,14966,14580,14580,13998,13998,0
+FP,342182,50496,50496,102509,102509,0,102509,50496,50496,0,0,0

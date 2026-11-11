@@ -1,0 +1,61 @@
+panel,series,x,y
+a,games / ESRB,L0,1.0
+a,games / ESRB,L1,0.0
+a,games / ESRB,UNVERIFIED,0.0
+a,games / ESRB,L1 rows,0
+a,games / ESRB,non-empty rows,26095
+a,games / genres,L0,0.08067170669699605
+a,games / genres,L1,0.036555830601458485
+a,games / genres,UNVERIFIED,0.8827724627015454
+a,games / genres,L1 rows,2732
+a,games / genres,non-empty rows,74735
+a,games / platform,L0,0.2813082732992581
+a,games / platform,L1,0.0
+a,games / platform,UNVERIFIED,0.7186917267007419
+a,games / platform,L1 rows,0
+a,games / platform,non-empty rows,74541
+a,companies / country,L0,0.9021358934285927
+a,companies / country,L1,0.011758577063332588
+a,companies / country,UNVERIFIED,0.08610552950807472
+a,companies / country,L1 rows,158
+a,companies / country,non-empty rows,13437
+a,companies / industry,L0,0.09349179400113186
+a,companies / industry,L1,0.0767402376910017
+a,companies / industry,UNVERIFIED,0.8297679683078665
+a,companies / industry,L1 rows,678
+a,companies / industry,non-empty rows,8835
+a,music / genre,L0,0.3727405312237592
+a,music / genre,L1,0.0
+a,music / genre,UNVERIFIED,0.6272594687762407
+a,music / genre,L1 rows,0
+a,music / genre,non-empty rows,22627
+b,group-by seconds,63.138,0.07182041798660066
+b,group-by seconds,126.276,0.11763058297219686
+b,group-by seconds,189.414,0.1621131249848986
+b,group-by seconds,252.552,0.21025862703390885
+b,group-by seconds,315.692,0.2651900019845925
+b,group-by seconds,378.83,0.31510304297262337
+b,group-by seconds,441.968,0.36486416701518465
+b,group-by seconds,505.106,0.4242044599959627
+b,group-by seconds,568.244,0.4730895000102464
+b,group-by seconds,631.384,0.536483127012616
+b,integer-program seconds,63.138,0.46500704203208443
+b,integer-program seconds,126.276,0.5189864149870118
+b,integer-program seconds,189.414,0.539035708992742
+b,integer-program seconds,252.552,0.5799353740148945
+b,integer-program seconds,315.692,0.5893504149862565
+b,integer-program seconds,378.83,0.6340591250045691
+b,integer-program seconds,441.968,0.6404733749659499
+b,integer-program seconds,505.106,0.6718975820112973
+b,integer-program seconds,568.244,0.6885066249815281
+b,integer-program seconds,631.384,0.647913373002666
+b,single-label fibers,63.138,490
+b,single-label fibers,126.276,545
+b,single-label fibers,189.414,557
+b,single-label fibers,252.552,587
+b,single-label fibers,315.692,612
+b,single-label fibers,378.83,652
+b,single-label fibers,441.968,651
+b,single-label fibers,505.106,663
+b,single-label fibers,568.244,669
+b,single-label fibers,631.384,669

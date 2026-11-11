@@ -1,0 +1,5 @@
+task,dataset,view_id,rows_leaving_label_domain,expected_rows,nonvacuous,pass
+facet,DF,l0_facet__facet,213933,213933,1,1
+facet,FP,l0_facet__facet,272155,272155,1,1
+family,DF,l0_family__family,164859,164859,1,1
+family,FP,l0_family__family,150216,150216,1,1

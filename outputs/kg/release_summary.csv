@@ -1,0 +1,5 @@
+release,split,held_out,identity_overlap_with_train,l1,unverified,l1_symmetrized_domain,symmetrized_increment
+WN18,test,5000,0,4504,496,4658,154
+WN18,valid,5000,0,4512,488,4671,159
+WN18RR,test,3134,0,1052,2082,1052,0
+WN18RR,valid,3034,0,1046,1988,1046,0

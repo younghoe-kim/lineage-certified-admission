@@ -1,0 +1,26 @@
+authority: frozen benchmark generator semantics
+inputs_sha256:
+  label_rule.py: ab0a61210b5c08984d07293a51eaff04ed5c434349896ef5dd6b26b9dc5c5f5f
+latent_state:
+  meaning: event-stream evidence order used by the tie rule
+  name: z
+  released: false
+rho:
+  definition: the maximizing label whose evidence occurs first in the event stream
+  generator_lines:
+  - 382
+  - 383
+  implementation_evidence: Counter.most_common(1)
+schema_version: '1'
+scope: The released authority does not contain z; tie-dependent fibers are therefore
+  not certified UNSAFE by strict-max evidence alone.
+step: registry
+tasks:
+  facet:
+    carrier_block: 'facet::'
+    query: strict unique argmax; otherwise rho
+  family:
+    carrier_block: 'family::'
+    query: strict unique argmax; otherwise rho
+writer_id: lca.writer
+writer_schema_version: '1'

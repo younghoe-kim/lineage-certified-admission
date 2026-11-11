@@ -1,0 +1,6 @@
+domain,declared,base_tier_only,taxonomy_backed_query_count,handling,interpretation_if_no_query
+companies,1,1,2,RUN_ALL_REGISTERED_QUERIES,
+games,1,1,3,RUN_ALL_REGISTERED_QUERIES,
+music,1,1,1,RUN_ALL_REGISTERED_QUERIES,
+papers,1,1,0,NO_REGISTERED_TAXONOMY_TRANSFORM,Structural out-of-scope control; do not infer NONDETERMINED.
+products,1,1,0,NO_REGISTERED_TAXONOMY_TRANSFORM,Structural out-of-scope control; do not infer NONDETERMINED.

@@ -1,0 +1,15 @@
+query_id,domain,target_attribute,taxonomy_path,protected_taxonomy_column,candidate_taxonomy_column,taxonomy_rows,carrier_nonblank_rows,carrier_unique_values,fd_conflict_keys,exact_determinacy,reason
+Q01-games-esrb,games,ESRB,use cases/games/base/input/schemamatching/ESRB_Rating_Taxonomy.csv,Rating Code,Minimum Age,7,7,6,1,0,ONE_CARRIER_VALUE_MAPS_TO_MULTIPLE_PROTECTED_VALUES
+Q02-games-genres,games,genres,use cases/games/base/input/schemamatching/Video_Game_Genres_Taxonomy.csv,Genre Name,Sub-Subgenre Name,153,153,152,1,0,ONE_CARRIER_VALUE_MAPS_TO_MULTIPLE_PROTECTED_VALUES
+Q03-games-platform,games,platform,use cases/games/base/input/schemamatching/Gaming_Platforms_Taxonomy.csv,Platform Name,Generation,97,97,10,10,0,ONE_CARRIER_VALUE_MAPS_TO_MULTIPLE_PROTECTED_VALUES
+Q03-games-platform,games,platform,use cases/games/base/input/schemamatching/Gaming_Platforms_Taxonomy.csv,Platform Name,Manufacturer,97,97,22,16,0,ONE_CARRIER_VALUE_MAPS_TO_MULTIPLE_PROTECTED_VALUES
+Q03-games-platform,games,platform,use cases/games/base/input/schemamatching/Gaming_Platforms_Taxonomy.csv,Platform Name,Manufacturer Code,97,97,34,23,0,ONE_CARRIER_VALUE_MAPS_TO_MULTIPLE_PROTECTED_VALUES
+Q03-games-platform,games,platform,use cases/games/base/input/schemamatching/Gaming_Platforms_Taxonomy.csv,Platform Name,Platform Type,97,97,8,8,0,ONE_CARRIER_VALUE_MAPS_TO_MULTIPLE_PROTECTED_VALUES
+Q03-games-platform,games,platform,use cases/games/base/input/schemamatching/Gaming_Platforms_Taxonomy.csv,Platform Name,Platform Type Code,97,97,8,8,0,ONE_CARRIER_VALUE_MAPS_TO_MULTIPLE_PROTECTED_VALUES
+Q03-games-platform,games,platform,use cases/games/base/input/schemamatching/Gaming_Platforms_Taxonomy.csv,Platform Name,Release Year,97,97,38,22,0,ONE_CARRIER_VALUE_MAPS_TO_MULTIPLE_PROTECTED_VALUES
+Q03-games-platform,games,platform,use cases/games/base/input/schemamatching/Gaming_Platforms_Taxonomy.csv,Platform Name,Status,97,97,3,2,0,ONE_CARRIER_VALUE_MAPS_TO_MULTIPLE_PROTECTED_VALUES
+Q05-companies-industry,companies,industry,use cases/companies/base/input/schemamatching/GICS_Industry_Taxonomy.csv,Industry Name,1Sector Code,163,163,11,11,0,ONE_CARRIER_VALUE_MAPS_TO_MULTIPLE_PROTECTED_VALUES
+Q05-companies-industry,companies,industry,use cases/companies/base/input/schemamatching/GICS_Industry_Taxonomy.csv,Industry Name,Industry Group Code,163,163,25,20,0,ONE_CARRIER_VALUE_MAPS_TO_MULTIPLE_PROTECTED_VALUES
+Q05-companies-industry,companies,industry,use cases/companies/base/input/schemamatching/GICS_Industry_Taxonomy.csv,Industry Name,Industry Group Name,163,163,25,20,0,ONE_CARRIER_VALUE_MAPS_TO_MULTIPLE_PROTECTED_VALUES
+Q05-companies-industry,companies,industry,use cases/companies/base/input/schemamatching/GICS_Industry_Taxonomy.csv,Industry Name,Sector Name,163,163,11,11,0,ONE_CARRIER_VALUE_MAPS_TO_MULTIPLE_PROTECTED_VALUES
+Q06-music-genre,music,genre,use cases/music/base/input/schemamatching/Music_Genres_Taxonomy.csv,Genre Name,Sub-Subgenre Name,360,360,355,5,0,ONE_CARRIER_VALUE_MAPS_TO_MULTIPLE_PROTECTED_VALUES

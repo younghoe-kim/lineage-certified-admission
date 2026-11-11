@@ -1,0 +1,21 @@
+panel,series,x,y
+a,facet,attribute/garment detail,3
+a,facet,attribute/textile material type,1
+a,facet,category/wholebody,1
+a,family,STR,3
+a,family,SURF,1
+a,family,TAX,1
+a,W,attribute/garment detail,STR
+a,W,attribute/textile material type,SURF
+a,W,category/wholebody,TAX
+a,candidates,,105650
+b,type,attribute,1
+b,type,category,2
+b,facets of type,attribute,12
+b,facets of type,category,9
+b,W attribute,ATTR,1
+b,W attribute,STR,6
+b,W attribute,SURF,5
+b,W category,TAX,9
+b,states,,540
+b,certified label,,TAX

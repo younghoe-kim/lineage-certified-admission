@@ -1,0 +1,5 @@
+task,dataset,direct_view,identity_view,direct_unsafe_rows,identity_unsafe_rows,direct_only_rows,direct_only_identity_query_defect_rows,direct_only_outside_full_conform_rows,direct_only_with_color_rows,identity_only_rows,identity_query_conform_rows,mismatch_on_identity_query_conform_rows
+facet,DF,l0_facet__facet,identity_admitted__facet,139290,138908,382,382,382,0,0,274622,0
+facet,FP,l0_facet__facet,identity_admitted__facet,184597,149848,34749,34749,34749,0,0,291686,0
+family,DF,l0_family__family,identity_admitted__family,190335,181119,9216,9216,9216,9216,0,275204,0
+family,FP,l0_family__family,identity_admitted__family,324407,324407,0,0,0,0,0,342182,0

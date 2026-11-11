@@ -1,0 +1,90 @@
+check,primary_value,independent_value,exact_match,note
+registry.Pi_count,2715,2715,1,
+registry.Pi_all_match,1,1,1,
+registry.T_domain_facets,27,27,1,
+registry.W_domain_facets,27,27,1,
+registry.T_map_hash,,562df1256623d94bfa3648bca0e230845a7d81f2a0a7a9512a995d34bc69dbca,NA,canonical JSON hash of the registry map
+registry.W_map_hash,,7c28e5d845b2ffd44f4e729da04533afd8fdc5f19302985137483735ccabd5d7,NA,canonical JSON hash of the registry map
+registry.support_facets,"{""DF"": 16, ""FP"": 24}","{""DF"": 16, ""FP"": 24}",1,
+registry.coordinate_counts_subset,"{""core::"": 1181, ""facet::"": 26, ""family::"": 5, ""type::"": 3}","{""core::"": 1181, ""facet::"": 26, ""family::"": 5, ""type::"": 3}",1,
+registry.Pi_from_input_relations,2715,2715,1,IN_FACET targets = facet field of the term table = registry/term_to_facet.csv
+registry.T_from_input_terms,27,27,1,one term type per facet in the term table = registry/facet_map.csv
+registry.W_equals_stated_map,27,27,1,registry/facet_map.csv = the facet-to-family map of Table S2 of the extended audit details
+conformance.FULL_CONFORM_pass_rows,"{""DF"": 274622, ""FP"": 291686}","{""DF"": 274622, ""FP"": 291686}",1,
+conformance.FULL_CONFORM_fail_rows,"{""DF"": 14580, ""FP"": 50496}","{""DF"": 14580, ""FP"": 50496}",1,
+conformance.query_mask_shape,"[32, 631384]","[32, 631384]",1,
+conformance.full_mask_csv_vs_npz,1,1,1,
+conformance.fail_mask_hash_DF,,d816240af7a9b740c658a333a59af99c932a6c5ee100c0a94035e129237edeeb,NA,independent ordered failing-row hash
+conformance.fail_mask_hash_FP,,86e7c0f5b7a2658d353f989b3f0d0adb49a735786fd41a44e003e08f7ad9cd36,NA,independent ordered failing-row hash
+verdicts.MILP_counterexample_objective,-5,-5,1,
+conformance.FULL_CONFORM_recomputed_from_inputs,"{""DF"": 14580, ""FP"": 50496}","{""DF"": 14580, ""FP"": 50496}",1,every anchor's FULL-CONFORM flag recomputed from the input view
+conformance.QUERY_CONFORM_recomputed_from_inputs,32,32,1,every view's QUERY-CONFORM mask recomputed from the input view and compared row by row
+conformance.support_sizes_from_inputs,"{""DF"": 16, ""FP"": 24}","{""DF"": 16, ""FP"": 24}",1,facet supports S_i recomputed from the core terms of each dataset
+verdicts.counts.core_plus_type__family|DF,"{""fibers"": 168684, ""nondetermined_rows"": 0, ""unsafe_rows"": 180715, ""unverified_defect_rows"": 14580, ""unverified_observed_rows"": 93907}","{""fibers"": 168684, ""nondetermined_rows"": 0, ""unsafe_rows"": 180715, ""unverified_defect_rows"": 14580, ""unverified_observed_rows"": 93907}",1,
+verdicts.counts.core_plus_type__family|FP,"{""fibers"": 19315, ""nondetermined_rows"": 0, ""unsafe_rows"": 285859, ""unverified_defect_rows"": 50496, ""unverified_observed_rows"": 5827}","{""fibers"": 19315, ""nondetermined_rows"": 0, ""unsafe_rows"": 285859, ""unverified_defect_rows"": 50496, ""unverified_observed_rows"": 5827}",1,
+verdicts.counts.facet_only__family|DF,"{""fibers"": 22998, ""nondetermined_rows"": 18914, ""unsafe_rows"": 181119, ""unverified_defect_rows"": 13998, ""unverified_observed_rows"": 75171}","{""fibers"": 22998, ""nondetermined_rows"": 18914, ""unsafe_rows"": 181119, ""unverified_defect_rows"": 13998, ""unverified_observed_rows"": 75171}",1,
+verdicts.counts.facet_only__family|FP,"{""fibers"": 13227, ""nondetermined_rows"": 0, ""unsafe_rows"": 324407, ""unverified_defect_rows"": 0, ""unverified_observed_rows"": 17775}","{""fibers"": 13227, ""nondetermined_rows"": 0, ""unsafe_rows"": 324407, ""unverified_defect_rows"": 0, ""unverified_observed_rows"": 17775}",1,
+verdicts.counts.family3__facet|DF,"{""fibers"": 223, ""nondetermined_rows"": 275068, ""unsafe_rows"": 0, ""unverified_defect_rows"": 13998, ""unverified_observed_rows"": 136}","{""fibers"": 223, ""nondetermined_rows"": 275068, ""unsafe_rows"": 0, ""unverified_defect_rows"": 13998, ""unverified_observed_rows"": 136}",1,
+verdicts.counts.family3__facet|FP,"{""fibers"": 467, ""nondetermined_rows"": 341783, ""unsafe_rows"": 0, ""unverified_defect_rows"": 0, ""unverified_observed_rows"": 399}","{""fibers"": 467, ""nondetermined_rows"": 341783, ""unsafe_rows"": 0, ""unverified_defect_rows"": 0, ""unverified_observed_rows"": 399}",1,
+verdicts.counts.family3_plus_type__facet|DF,"{""fibers"": 752, ""nondetermined_rows"": 272936, ""unsafe_rows"": 0, ""unverified_defect_rows"": 14580, ""unverified_observed_rows"": 1686}","{""fibers"": 752, ""nondetermined_rows"": 272936, ""unsafe_rows"": 0, ""unverified_defect_rows"": 14580, ""unverified_observed_rows"": 1686}",1,
+verdicts.counts.family3_plus_type__facet|FP,"{""fibers"": 414, ""nondetermined_rows"": 291506, ""unsafe_rows"": 1, ""unverified_defect_rows"": 50496, ""unverified_observed_rows"": 179}","{""fibers"": 414, ""nondetermined_rows"": 291506, ""unsafe_rows"": 1, ""unverified_defect_rows"": 50496, ""unverified_observed_rows"": 179}",1,
+verdicts.counts.identity_admitted__facet|DF,"{""fibers"": 168684, ""nondetermined_rows"": 0, ""unsafe_rows"": 138908, ""unverified_defect_rows"": 14580, ""unverified_observed_rows"": 135714}","{""fibers"": 168684, ""nondetermined_rows"": 0, ""unsafe_rows"": 138908, ""unverified_defect_rows"": 14580, ""unverified_observed_rows"": 135714}",1,
+verdicts.counts.identity_admitted__facet|FP,"{""fibers"": 19315, ""nondetermined_rows"": 0, ""unsafe_rows"": 149848, ""unverified_defect_rows"": 50496, ""unverified_observed_rows"": 141838}","{""fibers"": 19315, ""nondetermined_rows"": 0, ""unsafe_rows"": 149848, ""unverified_defect_rows"": 50496, ""unverified_observed_rows"": 141838}",1,
+verdicts.counts.identity_admitted__family|DF,"{""fibers"": 169158, ""nondetermined_rows"": 0, ""unsafe_rows"": 181119, ""unverified_defect_rows"": 13998, ""unverified_observed_rows"": 94085}","{""fibers"": 169158, ""nondetermined_rows"": 0, ""unsafe_rows"": 181119, ""unverified_defect_rows"": 13998, ""unverified_observed_rows"": 94085}",1,
+verdicts.counts.identity_admitted__family|FP,"{""fibers"": 49452, ""nondetermined_rows"": 0, ""unsafe_rows"": 324407, ""unverified_defect_rows"": 0, ""unverified_observed_rows"": 17775}","{""fibers"": 49452, ""nondetermined_rows"": 0, ""unsafe_rows"": 324407, ""unverified_defect_rows"": 0, ""unverified_observed_rows"": 17775}",1,
+verdicts.counts.inst_family__family|DF,"{""fibers"": 64, ""nondetermined_rows"": 274388, ""unsafe_rows"": 0, ""unverified_defect_rows"": 14580, ""unverified_observed_rows"": 234}","{""fibers"": 64, ""nondetermined_rows"": 274388, ""unsafe_rows"": 0, ""unverified_defect_rows"": 14580, ""unverified_observed_rows"": 234}",1,
+verdicts.counts.inst_family__family|FP,"{""fibers"": 1, ""nondetermined_rows"": 291686, ""unsafe_rows"": 0, ""unverified_defect_rows"": 50496, ""unverified_observed_rows"": 0}","{""fibers"": 1, ""nondetermined_rows"": 291686, ""unsafe_rows"": 0, ""unverified_defect_rows"": 50496, ""unverified_observed_rows"": 0}",1,
+verdicts.counts.l0_facet__facet|DF,"{""fibers"": 22998, ""nondetermined_rows"": 12613, ""unsafe_rows"": 139290, ""unverified_defect_rows"": 13998, ""unverified_observed_rows"": 123301}","{""fibers"": 22998, ""nondetermined_rows"": 12613, ""unsafe_rows"": 139290, ""unverified_defect_rows"": 13998, ""unverified_observed_rows"": 123301}",1,
+verdicts.counts.l0_facet__facet|FP,"{""fibers"": 13227, ""nondetermined_rows"": 325, ""unsafe_rows"": 184597, ""unverified_defect_rows"": 0, ""unverified_observed_rows"": 157260}","{""fibers"": 13227, ""nondetermined_rows"": 325, ""unsafe_rows"": 184597, ""unverified_defect_rows"": 0, ""unverified_observed_rows"": 157260}",1,
+verdicts.counts.l0_family__family|DF,"{""fibers"": 1443, ""nondetermined_rows"": 23305, ""unsafe_rows"": 190335, ""unverified_defect_rows"": 0, ""unverified_observed_rows"": 75562}","{""fibers"": 1443, ""nondetermined_rows"": 23305, ""unsafe_rows"": 190335, ""unverified_defect_rows"": 0, ""unverified_observed_rows"": 75562}",1,
+verdicts.counts.l0_family__family|FP,"{""fibers"": 988, ""nondetermined_rows"": 264, ""unsafe_rows"": 324407, ""unverified_defect_rows"": 0, ""unverified_observed_rows"": 17511}","{""fibers"": 988, ""nondetermined_rows"": 264, ""unsafe_rows"": 324407, ""unverified_defect_rows"": 0, ""unverified_observed_rows"": 17511}",1,
+verdicts.counts.type3__family|DF,"{""fibers"": 33, ""nondetermined_rows"": 230669, ""unsafe_rows"": 11927, ""unverified_defect_rows"": 14580, ""unverified_observed_rows"": 32026}","{""fibers"": 33, ""nondetermined_rows"": 230669, ""unsafe_rows"": 11927, ""unverified_defect_rows"": 14580, ""unverified_observed_rows"": 32026}",1,
+verdicts.counts.type3__family|FP,"{""fibers"": 54, ""nondetermined_rows"": 27959, ""unsafe_rows"": 130656, ""unverified_defect_rows"": 50496, ""unverified_observed_rows"": 133071}","{""fibers"": 54, ""nondetermined_rows"": 27959, ""unsafe_rows"": 130656, ""unverified_defect_rows"": 50496, ""unverified_observed_rows"": 133071}",1,
+verdicts.counts.type_attr_part__family|DF,"{""fibers"": 22, ""nondetermined_rows"": 230676, ""unsafe_rows"": 11927, ""unverified_defect_rows"": 14580, ""unverified_observed_rows"": 32019}","{""fibers"": 22, ""nondetermined_rows"": 230676, ""unsafe_rows"": 11927, ""unverified_defect_rows"": 14580, ""unverified_observed_rows"": 32019}",1,
+verdicts.counts.type_attr_part__family|FP,"{""fibers"": 38, ""nondetermined_rows"": 28269, ""unsafe_rows"": 88847, ""unverified_defect_rows"": 50496, ""unverified_observed_rows"": 174570}","{""fibers"": 38, ""nondetermined_rows"": 28269, ""unsafe_rows"": 88847, ""unverified_defect_rows"": 50496, ""unverified_observed_rows"": 174570}",1,
+verdicts.certificate_label_conflicts,0,0,1,
+verdicts.infeasible_fibers,0,0,1,
+verdicts.PathB_representative_solver_modes,"[""direct-HiGHS-MILP""]","[""direct-HiGHS-MILP""]",1,
+verdicts.decomposition.DF,"[181119, 180715, 404, 180715, 0]","[181119, 180715, 404, 180715, 0]",1,
+verdicts.decomposition.FP,"[324407, 285859, 38548, 285859, 0]","[324407, 285859, 38548, 285859, 0]",1,
+verdicts.carrier_equivalence.family.DF,"[190335, 181119, 9216]","[190335, 181119, 9216]",1,"strict unique maximum of the carrier block within QUERY-CONFORM, row by row against the verdict codes of both views"
+verdicts.carrier_equivalence.family.FP,"[324407, 324407, 0]","[324407, 324407, 0]",1,"strict unique maximum of the carrier block within QUERY-CONFORM, row by row against the verdict codes of both views"
+verdicts.carrier_equivalence.facet.DF,"[139290, 138908, 382]","[139290, 138908, 382]",1,"strict unique maximum of the carrier block within QUERY-CONFORM, row by row against the verdict codes of both views"
+verdicts.carrier_equivalence.facet.FP,"[184597, 149848, 34749]","[184597, 149848, 34749]",1,"strict unique maximum of the carrier block within QUERY-CONFORM, row by row against the verdict codes of both views"
+semantics.defect_rows_unverified,0,0,1,"view-dataset pairs violating the rule, of 64; "
+semantics.nondetermined_iff_witness_pair,0,0,1,"view-dataset pairs violating the rule, of 64; "
+semantics.unsafe_only_on_paths_a_b,0,0,1,"view-dataset pairs violating the rule, of 64; "
+semantics.definite_verdicts_exclusive,0,0,1,"view-dataset pairs violating the rule, of 64; "
+semantics.verdict_constant_on_fiber,0,0,1,"view-dataset pairs violating the rule, of 64; "
+mutations.mutations_passed,5,5,1,
+mutations.M1_generic_selector,1,1,1,
+mutations.M5_full_reaudit,"{""checks"": 64, ""delta_mismatches"": 0, ""nonvacuous"": true, ""unsafe_on_invalid"": 0}","{""checks"": 64, ""delta_mismatches"": 0, ""nonvacuous"": true, ""unsafe_on_invalid"": 0}",1,
+utility.raw_to_shared_prediction_changes,368911,368911,1,
+utility.support_disagreements,0,0,1,
+utility.probe_scores_match_probe_tables,116,116,1,probe/bound scores equal the probe tables
+utility.volume_control_matched,5,5,1,volume-matched rows equal the refit row counts
+utility.type_weight_unit_matches_refit,5,5,1,weight 1 reproduces the refit probe
+utility.bounds_match_bound_table,116,116,1,probe/bound bounds equal the bound table
+utility.headline_quantities_4dp,"{""refit_f1"": 0.3036, ""type_rescale_max"": 0.4687, ""type_rescale_min"": 0.2576, ""volume_max"": 0.6874, ""volume_min"": 0.686}","{""refit_f1"": 0.3036, ""type_rescale_max"": 0.4687, ""type_rescale_min"": 0.2576, ""volume_max"": 0.6874, ""volume_min"": 0.686}",1,
+utility.bound_violation_count,0,0,1,
+utility.minimum_bound_margin,,0.1299924168103176,NA,independent recomputation
+utility.cos_on_det_matrix_rows,68,68,1,
+utility.cos_on_det_core_plus_type_3dp,"{""('all_source', 'DF->FP')"": 0.873, ""('all_source', 'FP->DF')"": 0.754, ""('fixed_dataset_refit', 'DF->FP')"": 0.988, ""('fixed_dataset_refit', 'FP->DF')"": 0.915}","{""('all_source', 'DF->FP')"": 0.873, ""('all_source', 'FP->DF')"": 0.754, ""('fixed_dataset_refit', 'DF->FP')"": 0.988, ""('fixed_dataset_refit', 'FP->DF')"": 0.915}",1,
+utility.regression_assertions,1,1,1,re-evaluates the step's regression values on its outputs
+utility.bound_premises,1,1,1,re-evaluates the bound premises on the step's outputs
+controls.partition_48rows_independent,1,1,1,
+controls.scope_boundary,"{""DF|ALL"": [1, 8], ""DF|DRIFT"": [1, 8], ""DF|FULL_CONFORM"": [8, 8], ""FP|ALL"": [1, 8], ""FP|DRIFT"": [1, 8], ""FP|FULL_CONFORM"": [8, 8]}","{""DF|ALL"": [1, 8], ""DF|DRIFT"": [1, 8], ""DF|FULL_CONFORM"": [8, 8], ""FP|ALL"": [1, 8], ""FP|DRIFT"": [1, 8], ""FP|FULL_CONFORM"": [8, 8]}",1,
+controls.simple_check_cells_independent,1,1,1,
+controls.headline_cells,"{""fd_g3_df"": 0.0, ""fd_g3_fp"": 0.0, ""instfam_den"": 289202, ""instfam_n"": 268011, ""l0_hit"": 1.0, ""l0_hit_san"": 0.0, ""l0_rate"": 1.0}","{""fd_g3_df"": 0.0, ""fd_g3_fp"": 0.0, ""instfam_den"": 289202, ""instfam_n"": 268011, ""l0_hit"": 1.0, ""l0_hit_san"": 0.0, ""l0_rate"": 1.0}",1,
+controls.permutation_B999_recomputed,1,1,1,
+scaling.raw_summary_aggregate_recomputation,1,1,1,
+scaling.rows_10_to_100,"[63138, 631384]","[63138, 631384]",1,
+scaling.infeasible_fibers,0,0,1,
+scaling.scaling_observational,,"{""fibers_100pct"": 2003, ""fibers_10pct"": 1250, ""grouping_ratio_100_over_10"": 7.469785641079207, ""milp_ratio_100_over_10"": 1.3933409915068804, ""rows_100pct"": 631384, ""rows_10pct"": 63138, ""solver_fibers_100pct"": 669, ""solver_fibers_10pct"": 490, ""time_100pct"": 1.1858464569668286, ""time_10pct"": 0.5443447910220129, ""time_ratio_100_over_10"": 2.178484072090393}",NA,timing columns of the released files are those of the reference run (scaling/reference_times.json)
+scaling.grouping_columns_from_inputs,80,80,1,fiber grouping of the sampled query rows recounted from the input view
+verdicts.PathB_open_witness_states,659,659,1,every open single-label Path B fiber re-checked in integer arithmetic
+verdicts.PathB_open_equals_nonunsafe_solver_fibers,659,659,1,"per view and dataset, against scaling/scaling_summary.csv at fraction 1.0"
+verdicts.PathB_open_fiber_sizes_from_inputs,659,659,1,query-conforming anchors of each open fiber recounted from the input view
+verdicts.PathB_open_public_subset,467,467,1,public table = full table without the DF rows of single-anchor fibers
+verdicts.PathB_open_summary,"{""by_program_status"": {""optimal"": 656, ""unbounded"": 3}, ""full_rows"": 659, ""full_sha256"": ""7c611d2a8dcfe00bc16271ab71e9c0bec7df63d565dcd44b51aaa948c94bfe05"", ""public_rows"": 467, ""public_sha256"": ""2fe84fc301ebebc488cad6c564dde756ee675dff6eba48f5567cf0f70723d375"", ""rows_passing_exact_check"": 659, ""withheld_rows"": 192}","{""by_program_status"": {""optimal"": 656, ""unbounded"": 3}, ""full_rows"": 659, ""full_sha256"": ""7c611d2a8dcfe00bc16271ab71e9c0bec7df63d565dcd44b51aaa948c94bfe05"", ""public_rows"": 467, ""public_sha256"": ""2fe84fc301ebebc488cad6c564dde756ee675dff6eba48f5567cf0f70723d375"", ""rows_passing_exact_check"": 659, ""withheld_rows"": 192}",1,counts and SHA-256 of both tables in verdicts/path_b_open_summary.json
+verdicts.PathB_certificate_DF_fibers_shared,>= 2,"{""query_conforming"": 11927, ""support/support_certificates.csv"": 203, ""verdicts/path_b_certificates.csv"": 11927}",1,DF anchors carrying the view value of each DF row of the public certificate files

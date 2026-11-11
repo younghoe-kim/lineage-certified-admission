@@ -1,0 +1,3 @@
+dataset,rows,conform_rows,defect_rows,conform_rate,Pi_fail_rows,tau_fail_rows,w_fail_rows,support_fail_rows,no_rep_core,ghost_color,unsupported_category_unit,conform_without_rep_core,core_zero_rows,facet_zero_rows,family_zero_rows,type_zero_rows
+DF,289202,274622,14580,0.94958541088927462,14580,14580,14580,0,604,13973,3,0,0,0,0,0
+FP,342182,291686,50496,0.85242940891104735,50496,50496,50496,0,50496,0,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+basis,direction,training_protocol,evaluation_scope,basis_coordinates,shared_coordinates,targets_with_basis_evidence,mean_fraction_coordinates_dropped,median_fraction_coordinates_dropped,share_targets_losing_most_coordinates,share_targets_losing_all_coordinates,fraction_basis_events_dropped
+core::,DF->FP,fixed_dataset_refit,full_conform_target,1181,1027,291686,0.9502454232067584,1.0,0.9426095184547767,0.8618240162366381,0.8815307021141052
+core::,FP->DF,fixed_dataset_refit,full_conform_target,1181,225,256670,0.7568350329158158,0.7777777777777778,0.8218490668952352,0.31493357229126895,0.7701753377914429
+facet::,DF->FP,fixed_dataset_refit,full_conform_target,26,16,291686,0.646759256991836,0.5,0.4469258037752926,0.4469258037752926,0.3764685392379761
+facet::,FP->DF,fixed_dataset_refit,full_conform_target,26,24,256670,0.09075932223514721,0.0,0.0,0.0,0.09891968965530396
